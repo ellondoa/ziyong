@@ -327,7 +327,7 @@
         },
           {
       "key": "T4_玩偶哥哥",
-      "name": "👽俊哥哥┃随缘┃测试",
+      "name": "👽玩偶T4┃",
       "type": 4,
       "playerType": 1,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=342a28053dd54cf2b0246c6b33c74013"
@@ -342,21 +342,30 @@
       "api": "csp_XYQHikerAL",
       "ext": "./lib/玩偶哥哥.json"
     },
-       {
-      "key": "玩偶弹幕",
-      "name": "🤡玩偶┃4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "f376521b7ba247b183262c2732d870ba",
-        "filter": "./lib/wogg.json",
-        "danmu": true
-      },
-      "timeout": 30
+         {
+      "key": "t4_俊纸条",
+      "name": "👽俊纸条┃随缘┃测试",
+      "type": 4,
+      "playerType": 1,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe&token=0f8740d614924113bebcb0727b83",
+      "ext": "342a28053dd54cf2b0246c6b33c74013"
     },
+   
+      // {
+     // "key": "玩偶弹幕",
+    //  "name": "🤡玩偶┃4K",
+    //  "type": 3,
+    //  "api": "csp_Wogg",
+    //  "searchable": 1,
+     // "filterable": 1,
+    //  "changeable": 1,
+     // "ext": {
+     //   "token": "f376521b7ba247b183262c2732d870ba",
+    //    "filter": "./lib/wogg.json",
+    //    "danmu": true
+    //  },
+    //  "timeout": 30
+    //},
         {
             "key": "duboku",
             "name": "独播≛库外",
