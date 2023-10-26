@@ -342,14 +342,24 @@
       "api": "csp_XYQHikerAL",
       "ext": "./lib/玩偶哥哥.json"
     },
-         {
-      "key": "t4_俊纸条",
-      "name": "👽俊纸条┃随缘",
-      "type": 4,
-      "playerType": 1,
-      "api": "http://home.jundie.top:9520/spider/cli_gitCafe&token=0f8740d614924113bebcb0727b83",
-      "ext": "342a28053dd54cf2b0246c6b33c74013"
+        {
+      "key": "Mino",
+      "name": "👻Mino",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
+       //  {
+     // "key": "t4_俊纸条",
+     // "name": "👽俊纸条┃随缘",
+     // "type": 4,
+     // "playerType": 1,
+     // "api": "http://home.jundie.top:9520/spider/cli_gitCafe&token=0f8740d614924113bebcb0727b83",
+     // "ext": "342a28053dd54cf2b0246c6b33c74013"
+    //},
    
       // {
      // "key": "玩偶弹幕",
