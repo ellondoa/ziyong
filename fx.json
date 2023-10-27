@@ -361,7 +361,7 @@
             "name": "视中〓影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/视中心影视.js"
+            "ext": "./lib/视中心影视.js"
         },
     
 
