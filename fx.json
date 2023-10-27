@@ -343,7 +343,8 @@
       "ext": {
       "token":"https://www.qiaoji8.com/jar1/token.txt",
       "filter":"./lib/玩偶哥哥.json"
-      }
+      },
+       "jar":"./jcsq.jar"
     },   
   {"key":"Mino",
   "name":"Mino┃App",
