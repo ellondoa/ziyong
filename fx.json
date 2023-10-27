@@ -356,7 +356,7 @@
             },
             "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
-          {
+     {
             "key": "drpy_js_视中影视",
             "name": "视中〓影视",
             "type": 3,
@@ -364,8 +364,6 @@
             "ext": "./lib/视中心影视.js"
             "jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A038A59767F06E266A4099C3D2DF4693"
         },
-    
-
         {
             "key": "duboku",
             "name": "独播≛库外",
