@@ -362,6 +362,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/视中心影视.js"
+            "jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A038A59767F06E266A4099C3D2DF4693"
         },
     
 
