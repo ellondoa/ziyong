@@ -340,7 +340,10 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
-      "ext": "./lib/玩偶哥哥.json"
+      "ext": {
+      "token":"https://www.qiaoji8.com/jar1/token.txt",
+      "filter":"./lib/玩偶哥哥.json"
+      }
     },   
   {"key":"Mino",
   "name":"Mino┃App",
