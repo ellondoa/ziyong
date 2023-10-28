@@ -24,6 +24,26 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/疼疼.js"
         },
+         {
+                   "key": "應用商店",
+                         "name": "應用商店",
+                               "type": 3,
+                                     "api": "csp_Market",
+                                           "searchable": 0,
+                                                 "changeable": 0,
+                                                       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+                                                           }
+                                                             ],
+                                                               "doh": [
+                                                                   {
+                                                                         "name": "Google",
+                                                                               "url": "https://dns.google/dns-query",
+                                                                                     "ips": [
+                                                                                             "8.8.4.4",
+                                                                                                     "8.8.8.8"
+                                                                                                           ]
+                                                                                                               },
+         }
         {
             "key": "百忙无果",
             "name": "忙忙≛资源",
