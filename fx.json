@@ -24,7 +24,17 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/疼疼.js"
         },
-    
+           {"key":"剧圈圈",
+            "name":"剧圈圈影视",
+             "type":3,
+             "api":"csp_XBPQ",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1,
+             "ext":
+               {"分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/hits/class/{cIass}/id/{cateId}/letter/{Ietter}/year/{year}/{by}/{catePg}.html",
+                 "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman"}
+                 },
         
         {
             "key": "百忙无果",
