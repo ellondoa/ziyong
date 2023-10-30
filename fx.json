@@ -419,7 +419,7 @@
       //"token":"https://www.qiaoji8.com/jar1/token.txt",
       "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
       
-      "filter":"./lib/wogg.json"
+      "filter":"https://agit.ai/wekeyfisrt/TVaoo/raw/branch/master/json/wogg.json"
       },
        "jar":"./wogg.jar"
     },   
