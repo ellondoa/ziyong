@@ -32,107 +32,16 @@
             "searchable":1,"quickSearch":1,"filterable":1,
             "ext":"https://cloud.lxweb.cn/f/emARta/2.js"
         },
- {
-            "key": "應用商店",
-            "name": "应用商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1857d736869fbeb63ddf63e9065d053b",
-            "ext": [
-                {
-                    "name": "電視-java-v7",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                },
-                {
-                    "name": "電視-java-v8",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                },
-                {
-                    "name": "電視-py-v7",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                },
-                {
-                    "name": "電視-py-v8",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                },
-                {
-                    "name": "Android-4.x",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
-                },
-                {
-                    "name": "手機-java-v7",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
-                },
-                {
-                    "name": "手機-java-v8",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
-                },
-                {
-                    "name": "手機-py-v7",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
-                },
-                {
-                    "name": "手機-py-v8",
-                    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk",
-                    "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
-                },
-                {
-                    "name": "内测TV版-java32",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测TV版-java64",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测TV版-py32",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测TV版-py64",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测TV版(4.1-4.4)",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/kitkat/leanback.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测手機版-java32",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测手機版-java64",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测手機版-py32",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                },
-                {
-                    "name": "内测手機版-py64",
-                    "url": "https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
-                    "icon": "https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"
-                }
-            ]
-        },
+        {
+            "key":"應用商店",
+             "name":"🐝🛒應用商店",
+             "type":3,
+             "api":"csp_Market",
+             "searchable":0,
+             "changeable":0,
+             "ext":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/json/market.json",
+             "jar":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/jar/应用商店.jar"
+},
         
         {
             "key": "百忙无果",
@@ -505,7 +414,8 @@
       "playerType": 1,
       "api": "csp_XYQHikerAL",
       "ext": {
-      "token":"https://www.qiaoji8.com/jar1/token.txt",
+      "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt"
+      //"token":"https://www.qiaoji8.com/jar1/token.txt",
       "filter":"./lib/wogg.json"
       },
        "jar":"./wogg.jar"
