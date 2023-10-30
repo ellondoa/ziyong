@@ -491,9 +491,9 @@
       "api": "csp_XYQHikerAL",
       "ext": {
       "token":"https://www.qiaoji8.com/jar1/token.txt",
-      "filter":"./lib/玩偶哥哥.json"
+      "filter":"./lib/wogg.json"
       },
-       "jar":"./jcsq.jar"
+       "jar":"./wogg.jar"
     },   
   {"key":"Mino",
   "name":"Mino┃App",
