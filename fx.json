@@ -403,7 +403,9 @@
       "name": "👽玩偶T4┃",
       "type": 4,
       "playerType": 1,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=342a28053dd54cf2b0246c6b33c74013"
+      //"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=342a28053dd54cf2b0246c6b33c74013",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+       "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
          
          
