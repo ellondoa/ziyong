@@ -410,19 +410,31 @@
          
          
           {
-      "key": "XYQHaL_玩偶哥哥",
-      "name": "👽玩偶4K┃",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_XYQHikerAL",
-      "ext": {
-      //"token":"https://www.qiaoji8.com/jar1/token.txt",
-      "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
+      {"key":"csp_Wobg",
+      "name":"玩偶表哥",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":0,
+      "ext":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1", 
+      "timeout":30},
       
-      "filter":"https://agit.ai/wekeyfisrt/TVaoo/raw/branch/master/json/wogg.json"
-      },
-       "jar":"./wogg.jar"
-    },   
+      
+      
+      //"key": "XYQHaL_玩偶哥哥",
+     // "name": "👽玩偶4K┃",
+     // "type": 3,
+     // "playerType": 1,
+      //"api": "csp_XYQHikerAL",
+      //"ext": {
+      //"token":"https://www.qiaoji8.com/jar1/token.txt",
+     // "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
+      
+     // "filter":"https://agit.ai/wekeyfisrt/TVaoo/raw/branch/master/json/wogg.json"
+      //},
+      // "jar":"./wogg.jar"
+    //},   
   {"key":"Mino",
   "name":"Mino┃App",
   "type":3,
