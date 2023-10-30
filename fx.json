@@ -391,14 +391,14 @@
  "changeable":0,
  "ext":
    {
-       //"token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-     "token":"https://www.qiaoji8.com/jar1/token.txt",
+       "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+    // "token":"https://www.qiaoji8.com/jar1/token.txt",
     "filter":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/json/wogg.json"
       },
       "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
  },
 
-          {
+    {
       "key": "T4_玩偶哥哥",
       "name": "👽玩偶T4┃",
       "type": 4,
@@ -414,8 +414,9 @@
       "playerType": 1,
       "api": "csp_XYQHikerAL",
       "ext": {
-      "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt"
       //"token":"https://www.qiaoji8.com/jar1/token.txt",
+      "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
+      
       "filter":"./lib/wogg.json"
       },
        "jar":"./wogg.jar"
