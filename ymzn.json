@@ -621,7 +621,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
+      "ext": "https://download.kstore.space/download/3313/app/XYQTVBox/alitoken.txt",
       "jar": "./lib/ali.jar"
     },
     {
