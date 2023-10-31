@@ -397,7 +397,17 @@
       },
       "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
  },
-
+     {
+      "key": "csp_WoGG",
+      "name": "👑玩偶哥哥👑",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/3313/app/XYQTVBox/alitoken.txt",
+      "jar": "./lib/ali.jar"
+    },
     {
       "key": "T4_玩偶哥哥",
       "name": "👽玩偶T4┃",
