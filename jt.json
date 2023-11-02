@@ -1,13 +1,13 @@
-{
-    "spider": "./custom_spider.jar",
-    "spider": "./fan1031.jar",
-     "spider": "./okdm.jar",
+  {
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+   // "spider": "./custom_spider.jar",
+   // "spider": "./fan1031.jar",
+   //  "spider": "./okdm.jar",
       "spider": "./YSC.jar",
      "spider": "./spider1031.jar",
       "spider": "./openspider1031.jar",
        "spider": "./openspider.jar",
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jcsq.jar",
+       "spider": "./jcsq.jar",
     "lives": [
         {
             "name": "live",
