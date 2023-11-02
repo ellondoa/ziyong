@@ -4,9 +4,9 @@
    // "spider": "./fan1031.jar",
    //  "spider": "./okdm.jar",
       "spider": "./YSC.jar",
-     "spider": "./spider1031.jar",
-      "spider": "./openspider1031.jar",
-       "spider": "./openspider.jar",
+    // "spider": "./spider1031.jar",
+  //    "spider": "./openspider1031.jar",
+     //  "spider": "./openspider.jar",
        "spider": "./jcsq.jar",
     "lives": [
         {
@@ -92,16 +92,55 @@
             "quickSearch": 1,
             "filterable": 1
 			
-        },{
-            "key": "csp_SP2345",
-            "name": "┃SP┃2345影视",
-            "type": 3,
-            "api": "csp_SP2345",
-			"playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
+         {
+      "key": "csp_Alistxy",
+      "name": "🐼时光┃Alist网盘",
+      "type": 3,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
+      "api": "csp_AListxy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "drives": [
+          {
+        "name": "💃小雅搜索①",
+        "server": "http://124.71.206.236:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索②",
+        "server": "http://60.204.139.228:5678/",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索③",
+        "server": "http://182.116.92.150:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索④",
+        "server": "http://112.226.137.40:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索⑤",
+        "server": "http://115.57.11.199:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索⑥",
+        "server": "http://116.22.128.30:5678",
+        "version": 3
+      },
+      {
+        "name": "💃小雅搜索⑦",
+        "server": "http://117.63.42.183:5678",
+        "version": 3
+      }
+        ]
+      }
+    },
         {
             "key": "Alist",
             "name": "小雅≛搜索¹",
@@ -976,26 +1015,7 @@
             "type": 1,
             "url": "http://115.231.220.36:9999/jx/tvbox/jx.php?url="
         },
-        {
-      "name": "♻️飞云",
-      "type": 1,
-      "url": "https://daina.hk/api/?key=507ebdc402a6314e35f950c4c40fdf27&url="
-        },
-        {
-      "name": "♻️神秘",
-      "type": 1,
-      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
-        },
-        {
-      "name": "♻️哥哥们",
-      "type": 1,
-      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-       },
-      {
-      "name": "♻️全部",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-       },
+     
         {
             "name": "官解8",
             "type": 1,
