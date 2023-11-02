@@ -141,26 +141,16 @@
         ]
       }
     },
-        {
-            "key": "Alist",
-            "name": "小雅≛搜索¹",
-            "type": 3,
-            "api": "http://154.8.204.57:40047/tvbox/libs/alist.min.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://154.8.204.57:40047/tvbox/json/alist.json;200;video",
-            "categories": [
-                "电视剧",
-                "电影",
-                "综艺",
-                "动漫"
-            ]
-        },
+           {
+      "key": "csp_woggcli",
+      "name": "♻️T4┃俊哥玩偶",
+      "type": 4,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/JGWO.jar",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
                 {
             "key": "csp_XiaoYa_小雅",
             "name": "小雅≛搜索²",
