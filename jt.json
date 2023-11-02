@@ -977,6 +977,26 @@
             "url": "http://115.231.220.36:9999/jx/tvbox/jx.php?url="
         },
         {
+      "name": "♻️飞云",
+      "type": 1,
+      "url": "https://daina.hk/api/?key=507ebdc402a6314e35f950c4c40fdf27&url="
+        },
+        {
+      "name": "♻️神秘",
+      "type": 1,
+      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+        },
+        {
+      "name": "♻️哥哥们",
+      "type": 1,
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+       },
+      {
+      "name": "♻️全部",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+       },
+        {
             "name": "官解8",
             "type": 1,
             "url": "http://119.91.123.253:1234/Api/cs.php?url="
