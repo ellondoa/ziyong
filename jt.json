@@ -96,42 +96,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_qq",
-            "name": "┃SP┃腾讯视频",
-            "type": 3,
-            "api": "csp_qq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_iqiyi",
-            "name": "┃SP┃奇艺影视",
-            "type": 3,
-            "api": "csp_iqiyi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_mgtv",
-            "name": "┃SP┃芒果电影",
-            "type": 3,
-            "api": "csp_mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
-            "key": "csp-youku",
-            "name": "┃SP┃优酷电影",
-            "type": 3,
-            "api": "csp_youku",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Alist",
             "name": "小雅≛搜索¹",
             "type": 3,
