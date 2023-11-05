@@ -113,6 +113,15 @@
             "filterable": 1,
             "changeable": 1
         },
+        {"key":"態掌",
+        "name":"熊掌┃采集",
+        "type":1,
+        "api":"http://xzcjz.com/api.php/provide/vod/at/json",
+        "searchable":1,
+        "changeable":1,
+        "quickSearch":1,
+        "filterable":1
+        },
         {
             "key": "csp_SP360",
             "name": "┃SP┃360影视",
