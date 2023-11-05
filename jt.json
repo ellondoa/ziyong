@@ -51,6 +51,16 @@
             "filterable": 1,
             "ext": "http://cms.shenqi4k.cc/api.php/app/"
        },
+       {
+       "key" : "玉米",
+        "name" : "玉米≛采集",
+        "type" : 0,
+         "api" : "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+         "playUrl" : "json:https://www.qiaoji8.com/tvbox/json1.php?url=",
+         "searchable" : 1,
+         "quickSearch" : 1,
+         "filterable" : 1
+        },
         {
             "key": "疼疼",
             "name": "腾腾≛资源",
