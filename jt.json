@@ -1087,6 +1087,11 @@
             "name": "嗅探9",
             "type": 0,
             "url": "https://jx.0ry.cn/?url="
+        },
+        {
+            "name": "嗅探10",
+            "type": 0,
+            "url": "https://www.qiaoji8.com/tvbox/json1.php?url="
         }
     ],
     "flags": [
