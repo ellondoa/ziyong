@@ -65,9 +65,18 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/悠悠.js"
         },
+             {"key":"態掌",
+        "name":"熊掌≛采集",
+        "type":1,
+        "api":"http://xzcjz.com/api.php/provide/vod/at/json",
+        "searchable":1,
+        "changeable":1,
+        "quickSearch":1,
+        "filterable":1
+        },
         {
             "key": "神奇影院",
-            "name": "神奇秒播",
+            "name": "神奇≛秒播",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -83,7 +92,7 @@
             "ext": "./lib/厂长资源.js"
         },
           {"key":"七新",
-          "name":"七新电影",
+          "name":"七新≛电影",
           "type":3,
           "api":"csp_XBPQ",
           "searchable":1,
