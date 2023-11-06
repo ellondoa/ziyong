@@ -133,16 +133,25 @@
             "filterable": 1
 			
         },
-        {
-      "key": "csp_WoGG4",
-      "name": "4时光| 玩偶T4",
+      //  {
+    //  "key": "csp_WoGG4",
+   //   "name": "4时光| 玩偶T4",
+   //   "type": 4,
+   //   "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f58bea917ce946c18479c25e453544b3",
+   //   "searchable": 1,
+   //   "quickSearch": 1,
+   //   "filterable": 1,
+   //   "jar":"./wogg.jar"
+  //     },
+   {
+      "key": "csp_woggcli",
+      "name": "💰玩偶内置💰",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f58bea917ce946c18479c25e453544b3",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./wogg.jar"
-       },
+      "filterable": 1
+    },
          {
       "key": "csp_Alistxy",
       "name": "🐼时光┃Alist网盘",
