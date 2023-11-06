@@ -114,7 +114,7 @@
             "changeable": 1
         },
         {"key":"態掌",
-        "name":"熊掌┃采集",
+        "name":"熊掌≛采集",
         "type":1,
         "api":"http://xzcjz.com/api.php/provide/vod/at/json",
         "searchable":1,
@@ -124,7 +124,7 @@
         },
        {
            "key": "csp_WoGG",
-           "name": "玩偶哥哥┃4K",
+           "name": "玩偶≛哥哥4K",
             "type": 3,
             "style": {
                 "type": "rect",
@@ -137,9 +137,21 @@
           "ext": "7984abb3f03c447196459eebd03eda63",
            "jar": "./lib/rski.js"
         },
+           {
+            "key": "Wobg",
+            "name": "♻️阿里≛玩偶表哥",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/pg.jar",
+            "api": "csp_Wobg",
+            "ext": "./alitoken.txt$$$http://wobge.run.goorm.io"
+        },
         {
             "key": "csp_SP360",
-            "name": "┃SP┃360影视",
+            "name": "┃SP≛360影视",
             "type": 3,
             "api": "csp_SP360",
 			"playerType": 2,
@@ -160,7 +172,7 @@
   //     },
    {
       "key": "csp_woggcli",
-      "name": "💰玩偶内置💰",
+      "name": "💰玩偶≛内置",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
       "searchable": 1,
@@ -170,7 +182,7 @@
     },
          {
       "key": "csp_Alistxy",
-      "name": "🐼时光┃Alist网盘",
+      "name": "🐼时光≛Alist网盘",
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
       "api": "csp_AListxy",
@@ -218,7 +230,7 @@
     },
            {
       "key": "csp_woggcli",
-      "name": "♻️T4┃俊哥玩偶",
+      "name": "♻️T4≛俊哥玩偶",
       "type": 4,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/JGWO.jar",
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
