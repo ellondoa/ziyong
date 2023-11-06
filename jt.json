@@ -122,16 +122,21 @@
         "quickSearch":1,
         "filterable":1
         },
-        {
-        "key": "移动云盘",
-        "name": "移动≛云盘",
-        "type": 1, 
-        "playerType":1,
-        "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-        "searchable": 1,
-        "quickSearch": 1,
-        "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"
-       },
+       {
+           "key": "csp_WoGG",
+           "name": "玩偶哥哥┃4K",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 0.8
+                     },
+          "api": "csp_WoGG",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "7984abb3f03c447196459eebd03eda63",
+           "jar": "./lib/rski.js"
+        },
         {
             "key": "csp_SP360",
             "name": "┃SP┃360影视",
