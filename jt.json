@@ -149,6 +149,12 @@
             "api": "csp_Wobg",
             "ext": "./alitoken.txt$$$http://wobge.run.goorm.io"
         },
+        {"key":"猫农民",
+        "name":"农民[cat]",
+        "type":3,
+        "api":"./lib/猫农民.js"
+        },
+
         {
             "key": "csp_SP360",
             "name": "┃SP≛360影视",
