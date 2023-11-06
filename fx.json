@@ -140,6 +140,11 @@
             "filterable": 1,
             "ext": "./lib/zhuiyi.js"
         },
+        {"key":"xml_玉米",
+        "name":"玉米☆采集",
+        "type":0,
+        "api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml"
+        },
         {
             "key": "csp_AppYsV2_4K视界",
             "name": "4⁴K≛视界",
