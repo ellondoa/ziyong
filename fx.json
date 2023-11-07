@@ -453,13 +453,14 @@
       "ext":
       //{
        //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-      // "token":"https://www.qiaoji8.com/jar1/token.txt",
+      // 
        //"filter":"https://qu.ax/cvU.json"
-         "https://qu.ax/cvU.json"
+         "https://qu.ax/cvU.json",
          //},
        // "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
-   
+      "token":"https://www.qiaoji8.com/jar1/token.txt"
     },
+  
     {
       "key": "csp_WoGG",
       "name": "玩偶≛哥哥4K", 
