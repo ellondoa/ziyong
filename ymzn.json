@@ -657,8 +657,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/4KHDR.json",
-        "token":"68a192b1d4564af681bbe1df9c060f03"
+      "ext": "./lib/4KHDR.json"
+       // "token":"68a192b1d4564af681bbe1df9c060f03"
     },
     {
       "key": "csp_XYQHiker4klg",
