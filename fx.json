@@ -32,6 +32,7 @@
           //  "searchable":1,"quickSearch":1,"filterable":1,
          //   "ext":"https://cloud.lxweb.cn/f/emARta/2.js"
         //},
+
         {
             "key": "csp_SP2345",
             "name": "2345≛影视",
@@ -150,6 +151,19 @@
            "quickSearch": 1,
            "filterable": 1
            },
+           {
+          "key": "apv2_玉米",
+          "name": "📮玉米≛影视",
+          "type": 3,
+          "api": "csp_AppYsV2",
+          "ext": "https://tv.iptv.ski/api.php/app/",
+          "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+           ]    
+         },
         {
             "key": "csp_AppYsV2_4K视界",
             "name": "4⁴K≛视界",
