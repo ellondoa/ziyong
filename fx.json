@@ -450,15 +450,15 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": 
-      {
-         "token":"f58bea917ce946c18479c25e453544b3",
+      "ext": "https://qu.ax/cvU.json",
+      //{
+        // "token":"f58bea917ce946c18479c25e453544b3",
        //"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-       "filter":"https://qu.ax/cvU.json"
+       //"filter":"https://qu.ax/cvU.json"
       
-      }
+     // }
        // "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
-      //"token":"https://www.qiaoji8.com/jar1/token.txt"
+      "token":"https://www.qiaoji8.com/jar1/token.txt"
     },
   
     {
