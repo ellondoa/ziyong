@@ -425,8 +425,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"./lib/玩偶哥哥.json"
-     //"jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jarhttps://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jar"
+     "ext":"./lib/玩偶哥哥.json",
+     "jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/HeChengChaXiu.jar"
      },
      {
       "key": "csp_woggcli",
