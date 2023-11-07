@@ -551,7 +551,8 @@
       "api":"csp_XYQHikerAL",
       "playerType":1,
       "searchable":1,"quickSearch":1,"filterable":1,
-      "ext":"./lib/玩偶哥哥.json"
+      "ext":"./lib/玩偶哥哥.json",
+      "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt"
       },
      
   {"key":"Mino",
