@@ -416,23 +416,152 @@
             "filterable": 1,
             "ext": "./lib/py_体育.py"
         },
- {"key":"玩偶",
- "name":"📀玩偶",
- "type":3,
- "api":"csp_Wogg",
- "searchable":1,
- "changeable":0,
- "ext":
-   {
-       "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-    // "token":"https://www.qiaoji8.com/jar1/token.txt",
-    "filter":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/json/wogg.json"
-      },
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
- },
+       //{"key":"玩偶",
+       //"name":"📀玩偶",
+       //"type":3,
+       //"api":"csp_Wogg",
+       //"searchable":1,
+       //"changeable":0,
+      // "ext":
+       //  {
+       //      "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+       // "token":"https://www.qiaoji8.com/jar1/token.txt",
+      //  "filter":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/json/wogg.json"
+      //    },
+      //    "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+     //},
+     {
+      "key": "csp_woggcli",
+      "name": "玩偶≛cli",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7984abb3f03c447196459eebd03eda63"
+    },
+    {
+      "key": "csp_XYQHikerAL_阿里云盘网",
+      "name":"阿里≛云盘",
+      "type":3,
+      "style":{ "type":"rect", "ratio":0.8 },
+      "api":"csp_XYQHikerAL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+       //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+       "token":"https://www.qiaoji8.com/jar1/token.txt",
+       "filter":"https://qu.ax/cvU.json"
+         },
+        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+   
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "玩偶≛哥哥4K", 
+      "type": 3, 
+      "style":{ "type":"rect", "ratio":0.8 },
+      "api": "csp_WoGG", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "7984abb3f03c447196459eebd03eda63",
+      "jar":"https://qu.ax/rski.js"
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name":"玩偶≛弟弟4k",
+      "type":3,
+      "style":{ "type":"rect", "ratio":0.8 },
+      "api":"csp_XYQHikerAL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+       //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+       "token":"https://www.qiaoji8.com/jar1/token.txt",
+       "filter": "https://qu.ax/VdgO.json"
+         },
+        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+   
+    },
+     
+    {
+      "key": "csp_XYQHikerlg4k",
+      "name": "玩偶≛姐姐4k",
+      "type": 3, 
+      "style":{ "type":"rect", "ratio":0.8 },
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext":{
+       //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+       "token":"https://www.qiaoji8.com/jar1/token.txt",
+       "filter":  "https://qu.ax/wNxy.json"
+         },
+        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+   
+    },
+     
+    { 
+      "key": "csp_XYQHiker4klg", 
+      "name": "玩偶≛妹妹4k", 
+      "type": 3, 
+      "style":{ "type":"rect", "ratio":0.8 },
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext":{
+       //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+       "token":"https://www.qiaoji8.com/jar1/token.txt",
+       "filter":  "https://qu.ax/TyM.json"
+         },
+        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+    
+     },
+     {
+       "key":"csp_yt",
+      "name":"玩偶≛表姐4K",
+      "type":3,
+      "style":{ "type":"rect", "ratio":0.8 },
+      "api":"csp_AppYsV2",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+       //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+       "token":"https://www.qiaoji8.com/jar1/token.txt",
+       "filter":  "https://www.lfytv.cn/api.php/app/" 
+         },
+        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+ 
+     },
+      {
+      "key": "csp_饭团",
+      "name": "❤🦄玩偶表妹┃4K",
+      "type": 3, 
+      "style":{ "type":"rect", "ratio":0.8 },
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": {
+       //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+       "token":"https://www.qiaoji8.com/jar1/token.txt",
+       "filter":  "https://qu.ax/CwJC.json"
+         },
+        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+   
+    },
      {
       "key": "csp_WoGG",
-      "name": "👑玩偶哥哥👑",
+      "name": "玩偶≛哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -443,7 +572,7 @@
     },
     {
       "key": "T4_玩偶哥哥",
-      "name": "👽玩偶T4┃",
+      "name": "玩偶≛T4┃",
       "type": 4,
       "playerType": 1,
       //"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=342a28053dd54cf2b0246c6b33c74013",
@@ -452,7 +581,7 @@
     },
          
       {"key":"csp_Wobg",
-      "name":"玩偶表哥",
+      "name":"玩偶≛表哥",
       "type":3,
       "api":"csp_Wobg",
       "searchable":1,
