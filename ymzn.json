@@ -611,7 +611,7 @@
       "name": "👑玩偶俊佬👑",
       "type": 4,
       "playerType": 1,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f58bea917ce946c18479c25e453544b3"
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=&token=94fd5ab297e24a769bb762375118ec47"
     },
     {
       "key": "csp_WoGG",
@@ -621,8 +621,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/3313/app/XYQTVBox/alitoken.txt",
-      "token":"f58bea917ce946c18479c25e453544b3",
+      "ext": "f58bea917ce946c18479c25e453544b3",
       "jar": "./lib/ali.jar"
     },
     {
