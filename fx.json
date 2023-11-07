@@ -445,12 +445,13 @@
       "name":"阿里≛云盘",
       "type":3,
       "style":{ "type":"rect", "ratio":0.8 },
-      "api":"csp_XYQHikerAL&token=f58bea917ce946c18479c25e453544b3",
+      "api":"csp_XYQHikerAL",
       "playerType":1,
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://qu.ax/cvU.json"
+      "ext": "f58bea917ce946c18479c25e453544b3",
+       "jar": "https://qu.ax/cvU.json"
       //{
        //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
       // 
