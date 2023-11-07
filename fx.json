@@ -151,20 +151,26 @@
            "quickSearch": 1,
            "filterable": 1
            },
-           {
-          "key": "apv2_玉米",
-          "name": "📮玉米≛影视",
-          "type": 3,
-          "api": "csp_AppYsV2",
-          "ext": "https://tv.iptv.ski/api.php/app/",
-          "jar":"https://agit.ai/qi169/kankan/raw/branch/master/jar/custom_spider.jar;md5;6B478453A1A548337F9237B24DF8E2C4",
-          "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-           ]    
-         },
+         {
+            "key": "csp_AppYsV2_玉米",
+            "name": "玉米≛APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+          //  "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
+            "ext": "http://154.12.21.186/api.php/app/"
+        },
+        { "key": "玉米",
+            "name": "🚛玉米≛2K", 
+            "type": 3, 
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://22222.yiyingys.asia/api.php/app/"
+            },
         {
             "key": "csp_AppYsV2_4K视界",
             "name": "4⁴K≛视界",
@@ -233,17 +239,7 @@
             "filterable": 1,
             "ext": "http://app.alovo.cn/api.php/app/"
         },
-        {
-            "key": "csp_AppYsV2_玉米",
-            "name": "玉米≛APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-          //  "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
-            "ext": "http://154.12.21.186/api.php/app/"
-        },
+        
         {
             "key": "rjumao",
             "name": "热剧≛APP",
