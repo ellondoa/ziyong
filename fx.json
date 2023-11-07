@@ -141,16 +141,28 @@
             "filterable": 1,
             "ext": "./lib/zhuiyi.js"
         },
-        //   {
-        //  "key": "玉米",
-        //  "name": "🌽玉米≛采集",
-        //  "type": 0,
-        //  "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-        //  "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
-        //  "searchable": 1,
-        //   "quickSearch": 1,
-        //   "filterable": 1
-        //   },
+        {
+         "key": "影院",
+         "name": "蓝光2K|影院",
+         "type": 3,
+         "playerType": 2,
+         "api": "csp_AppYsV2",
+          "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,    
+         "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+          },
+      
+           {
+          "key": "玉米",
+          "name": "🌽玉米≛采集",
+          "type": 0,
+          "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+          "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
+          "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1
+           },
          {
             "key": "csp_AppYsV2_玉米",
             "name": "玉米≛APP",
@@ -162,15 +174,15 @@
           //  "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
             "ext": "http://154.12.21.186/api.php/app/"
         },
-        { "key": "玉米",
-            "name": "🚛玉米≛2K", 
-            "type": 3, 
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://22222.yiyingys.asia/api.php/app/"
-            },
+        //{ "key": "玉米",
+        //    "name": "🚛玉米≛2K", 
+        //    "type": 3, 
+        //    "api":"csp_AppYsV2",
+        //    "searchable":1,
+        //    "quickSearch":1,
+        //    "filterable":1,
+        //    "ext":"http://22222.yiyingys.asia/api.php/app/"
+        //    },
         {
             "key": "csp_AppYsV2_4K视界",
             "name": "4⁴K≛视界",
