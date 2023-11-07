@@ -226,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
+          //  "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
             "ext": "http://154.12.21.186/api.php/app/"
         },
         {
