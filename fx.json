@@ -416,20 +416,7 @@
             "filterable": 1,
             "ext": "./lib/py_体育.py"
         },
-       //{"key":"玩偶",
-       //"name":"📀玩偶",
-       //"type":3,
-       //"api":"csp_Wogg",
-       //"searchable":1,
-       //"changeable":0,
-      // "ext":
-       //  {
-       //      "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-       // "token":"https://www.qiaoji8.com/jar1/token.txt",
-      //  "filter":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/json/wogg.json"
-      //    },
-      //    "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
-     //},
+      
      {
       "key": "csp_woggcli",
       "name": "玩偶≛cli",
@@ -522,7 +509,7 @@
      },
       {
       "key": "csp_饭团",
-      "name": "❤🦄玩偶表妹┃4K",
+      "name": "玩偶表妹┃4K",
       "type": 3, 
       "style":{ "type":"rect", "ratio":0.8 },
       "api": "csp_XBPQ",
