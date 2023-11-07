@@ -416,15 +416,7 @@
             "filterable": 1,
             "ext": "./lib/py_体育.py"
         },
-      {"key":"AliYunPan",
-      "name":"云盘≛T签到",
-      "type":3,
-      "api":"csp_AliYunPan",
-      "searchable":0,
-      "filterable":0,
-      "ext":"b4242bebe6f144d3aa6a2cd842ac65aa",
-      "jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jarhttps://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jar"
-      },
+      
 
      {"key":"Wogg",
      "name":"玩偶≛T追剧",
@@ -433,8 +425,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"./lib/玩偶哥哥.json",
-     "jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jarhttps://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jar"
+     "ext":"./lib/玩偶哥哥.json"
+     //"jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jarhttps://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jar"
      },
      {
       "key": "csp_woggcli",
