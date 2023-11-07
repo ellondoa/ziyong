@@ -473,17 +473,17 @@
       "ext": "7984abb3f03c447196459eebd03eda63",
       "jar":"https://qu.ax/rski.js"
     },
-    {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name":"玩偶≛弟弟4k",
-      "type":3,
-      "style":{ "type":"rect", "ratio":0.8 },
-      "api":"csp_XYQHikerAL",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext": "https://qu.ax/VdgO.json&token=7984abb3f03c447196459eebd03eda63"
+   // {
+  //    "key": "csp_XYQHikerAL_玩偶哥哥",
+  //    "name":"玩偶≛弟弟4k",
+ //     "type":3,
+ //     "style":{ "type":"rect", "ratio":0.8 },
+  //    "api":"csp_XYQHikerAL",
+  //    "playerType":1,
+ //     "searchable":1,
+ //     "quickSearch":1,
+ //     "filterable":1,
+ //     "ext": "https://qu.ax/VdgO.json&token=7984abb3f03c447196459eebd03eda63"
       //{
        //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
       // "token":"https://www.qiaoji8.com/jar1/token.txt",
@@ -491,7 +491,7 @@
        //  }
         //"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
    
-    },
+   // },
      
     {
       "key": "csp_XYQHikerlg4k",
@@ -502,12 +502,14 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1, 
-      "ext":{
+      "ext":"https://qu.ax/wNxy.json",
+      //{
        //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-       "token":"https://www.qiaoji8.com/jar1/token.txt",
-       "filter":  "https://qu.ax/wNxy.json"
-         },
-        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
+      
+      // "filter":  
+        "token":"https://www.qiaoji8.com/jar1/token.txt"
+       //  },
+      //  "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
    
     },
      
