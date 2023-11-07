@@ -26,7 +26,7 @@
         },
         {
             "key":"csp_器星",
-            "name":"★齐心协力",
+            "name":"齐心≛协力",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,"quickSearch":1,"filterable":1,
@@ -422,7 +422,8 @@
       "api":"csp_AliYunPan",
       "searchable":0,
       "filterable":0,
-      "ext":"b4242bebe6f144d3aa6a2cd842ac65aa"
+      "ext":"b4242bebe6f144d3aa6a2cd842ac65aa",
+      "jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jarhttps://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master//hccx/HeChengChaXiu.jar"
       },
 
      {"key":"Wogg",
@@ -581,25 +582,7 @@
   },
  
 
-   {
-       "key":"紙條搜",
-    "name":"📀紙條搜",
-    "type":3,
-    "api":"csp_XiaoZhiTiao",
-     "searchable":1,
-     "changeable":0,
-     "ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-    "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-   },
-  {"key":"盤搜索",
-    "name":"📀盤搜索",
-    "type":3,
-    "api":"csp_PanSearch",
-    "searchable":1,
-    "changeable":0,
-   "ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
-   "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-   },
+   
   {
             "key": "drpy_js_视中影视",
             "name": "视中〓影视",
