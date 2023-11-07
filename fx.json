@@ -594,38 +594,27 @@
   "quickSearch":1,"changeable":1,
   "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
   },
-  {"key":"玩偶",
-  "name":"📀玩偶",
-  "type":3,
-  "api":"csp_Wogg",
-  "searchable":1,
-  "changeable":0,
-  "ext":
-     {
-      "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-      "filter":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-      },
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-  },
+ 
 
-   //{"key":"紙條搜",
-   // "name":"📀紙條搜",
-    //"type":3,
-   //  "api":"csp_XiaoZhiTiao",
-     //"searchable":1,
-     //"changeable":0,
-    // "ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-    //  "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-   //},
-  //{"key":"盤搜索",
-   // "name":"📀盤搜索",
-   // "type":3,
-   // "api":"csp_PanSearch",
-   // "searchable":1,
-   // "changeable":0,
-   // "ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
-   // "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-  //  },
+   {
+       "key":"紙條搜",
+    "name":"📀紙條搜",
+    "type":3,
+    "api":"csp_XiaoZhiTiao",
+     "searchable":1,
+     "changeable":0,
+     "ext":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
+    "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+   },
+  {"key":"盤搜索",
+    "name":"📀盤搜索",
+    "type":3,
+    "api":"csp_PanSearch",
+    "searchable":1,
+    "changeable":0,
+   "ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
+   "jar":"https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+   },
   {
             "key": "drpy_js_视中影视",
             "name": "视中〓影视",
