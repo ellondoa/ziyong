@@ -556,6 +556,7 @@
       "ext":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1", 
       "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5",
       "timeout":30},
+     
       {"key": "csp_XYQHikerAL_玩偶哥哥",
       "name":"玩偶≛哥哥(优)",
       "type":3,
@@ -564,7 +565,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/玩偶哥哥.json",
+      "ext":"./lib/玩偶哥哥.json",
       "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt",
       "jar":"./wogg.jar"
       },
