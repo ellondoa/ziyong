@@ -157,6 +157,7 @@
           "type": 3,
           "api": "csp_AppYsV2",
           "ext": "https://tv.iptv.ski/api.php/app/",
+          "jar":"https://agit.ai/qi169/kankan/raw/branch/master/jar/custom_spider.jar;md5;6B478453A1A548337F9237B24DF8E2C4",
           "categories": [
         "电影",
         "电视剧",
