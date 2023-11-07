@@ -483,11 +483,12 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{
+      "ext": "https://qu.ax/VdgO.json&token=7984abb3f03c447196459eebd03eda63"
+      //{
        //     "token":"https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt",
-       "token":"https://www.qiaoji8.com/jar1/token.txt",
-       "filter": "https://qu.ax/VdgO.json"
-         }
+      // "token":"https://www.qiaoji8.com/jar1/token.txt",
+      // "filter":
+       //  }
         //"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
    
     },
