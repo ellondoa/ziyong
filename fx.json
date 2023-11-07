@@ -203,6 +203,16 @@
           //  "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
             "ext": "http://154.12.21.186/api.php/app/"
         },
+           {
+             "key": "csp_Alistxy",
+             "name": "🅿️Alist网盘♻️",
+             "type": 3,
+             "api": "csp_AListxy",
+           "searchable": 1,
+            "quickSearch": 1,
+           "ext": "https://jihulab.com/go9232136/tvbox2/-/raw/main/yydf/Alistxy.json",
+            "jar": "https://jihulab.com/go9232136/tvbox2/-/raw/main/yydf/AListxy.jar"
+        },
         //{ "key": "玉米",
         //    "name": "🚛玉米≛2K", 
         //    "type": 3, 
