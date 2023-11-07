@@ -82,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "csp_WoGG",
@@ -111,7 +111,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+      "ext": "https://www.qiaoji8.com/jar1/token.txt",
       "jar": "./lib/xry.jar"
     },
     {
@@ -377,7 +377,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "csp_Zhaozy",
@@ -401,7 +401,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "csp_Yisou",
@@ -413,7 +413,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -425,7 +425,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "csp_YGP",
