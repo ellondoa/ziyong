@@ -418,16 +418,6 @@
         },
       
 
-     {"key":"Wogg",
-     "name":"玩偶≛T追剧",
-     "type":3,
-     "api":"csp_XPathAli",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "ext":"./lib/玩偶哥哥.json",
-     "jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/HeChengChaXiu.jar"
-     },
      {
       "key": "csp_woggcli",
       "name": "玩偶≛cli",
