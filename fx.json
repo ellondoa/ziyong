@@ -140,16 +140,16 @@
             "filterable": 1,
             "ext": "./lib/zhuiyi.js"
         },
-      //    {
-      //"key": "玉米",
-     // "name": "🌽玉米≛采集",
-     // "type": 0,
-     // "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-    //  "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
-    //  "searchable": 1,
-    //  "quickSearch": 1,
-    //  "filterable": 1
-    //    },
+           {
+          "key": "玉米",
+          "name": "🌽玉米≛采集",
+          "type": 0,
+          "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+          "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
+          "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1
+           },
         {
             "key": "csp_AppYsV2_4K视界",
             "name": "4⁴K≛视界",
