@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
       "key": "布蕾影视",
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "7984abb3f03c447196459eebd03eda63",
+      "ext": "https://www.qiaoji8.com/jar1/token.txt",
       "jar": "./lib/xry.jar"
     },
     {
