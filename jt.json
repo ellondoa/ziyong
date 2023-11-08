@@ -3,7 +3,7 @@
    // "spider": "./custom_spider.jar",
    // "spider": "./fan1031.jar",
    //  "spider": "./okdm.jar",
-      "spider": "./YSC.jar",
+     // "spider": "./YSC.jar",
     // "spider": "./spider1031.jar",
   //    "spider": "./openspider1031.jar",
      //  "spider": "./openspider.jar",
@@ -12,7 +12,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./lib/ysclive.txt",
+            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
@@ -122,12 +122,23 @@
        },
          {
              "key":"恋影独家",
-             "name":"恋影≛cms",
+             "name":"恋影≛恋恋",
              "type":1,
              "api":"https://cms.lianyingtv.com/api.php/provide/vod/",
              "searchable":1,
              "changeable":1,
              "categories":["电影","连续剧","综艺","动漫"]
+             },
+             {
+                 "key":"雨晴",
+                 "name":"雨晴≛雨晴",
+                 "type":3,
+                 "api":"csp_AppYsV2",
+                 "playerType":2,
+                 "searchable":1,
+                 "quickSearch":1,
+                 "filterable":1,
+                 "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"
              },
         {"key":"態掌",
         "name":"熊掌≛采集",
