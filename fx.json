@@ -1640,8 +1640,13 @@
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
         },
+        {
+      "name": "嗅探10",
+      "type": 1,
+      "url": "http://pandown.pro/app/lvdou.php?url="
+        },
          {
-            "name": "嗅探10",
+            "name": "嗅探11",
             "type": 0,
             "url": "https://jx.aidouer.net/?url="
         }
