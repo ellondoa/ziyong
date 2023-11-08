@@ -4,14 +4,31 @@
 {
 	"spider": "./YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "./lib/ysclive.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
-
+	 "lives": 
+         [
+             { "name": "live", 
+               "type": 0, 
+               "url": "./lib/zliving.txt",
+               "playerType":1,
+                "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+                "logo":"https://epg.112114.xyz/logo/{name}.png"
+                },
+               { "name": "TV", 
+               "type": 0, 
+               "url": "./lib/zhibo.txt",
+               "playerType":1,
+                "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+                "logo":"https://epg.112114.xyz/logo/{name}.png"
+                },
+               { "name": "MTV", 
+               "type": 0, 
+               "url": "./lib/MTV.txt",
+               "playerType":1,
+                "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+                "logo":"https://epg.112114.xyz/logo/{name}.png"
+                }
+  
+  ],
 	"sites":[
 {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
 {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./lib/alibaba.jar"},
