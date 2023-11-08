@@ -1580,10 +1580,10 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
+        ]
+       // "header": {
+      //    "User-Agent": "okhttp/4.1.0"
+      //  }
       }
     },
     {
@@ -1665,10 +1665,10 @@
           "xigua",
           "fun",
           "风行"
-             ],
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-                  }
+             ]
+       // "header": {
+        //  "User-Agent": "Mozilla/5.0"
+        //          }
             }
         },
         {
@@ -1720,6 +1720,22 @@
         "bilibili"
     ],
     "rules": [
+        { 
+            "name": "采集站广告",
+            "hosts":
+                  [ 
+                      "vip.ffzy",
+                      "hd.ffzy",
+                       "vip.lz",
+                       "hd.lz",
+                       ".cdnlz",
+                       "suonizy",
+                       "bfzy" 
+                  ],
+                  "regex": [
+                      "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                      ] 
+             },
         {
             "name": "量子",
             "hosts": [
