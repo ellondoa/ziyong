@@ -104,6 +104,13 @@
         "quickSearch":1,
         "filterable":1
         },
+         {
+             "key":"刺桐",
+             "name":"刺桐影视",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
+             "ext":"./lib/刺桐.js"
+             },
         {
             "key": "神奇影院",
             "name": "神奇≛秒播",
