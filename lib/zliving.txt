@@ -1,5 +1,20 @@
 时光机直播,#genre#
-20231108,https://vdse.bdstatic.com//c2289af7749daef7a72ea754f33a3a06.mp4
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+中天综合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+中天综合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天综合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻[1280x720],http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+民视新闻[1280x720],http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+民视新闻[1280x720],http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+
 
 🇨🇳码上央视,#genre#
 CCTV-1综合,https://cntv.lat/tv?auth=202311030915&id=cctv1
