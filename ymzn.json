@@ -31,7 +31,7 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "♻️豆瓣┃公众号:大屏玩家",
+      "name": "♻️豆瓣┃豆瓣",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
