@@ -97,7 +97,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "Mino",
