@@ -165,6 +165,8 @@
                 "动漫"
             ]
         },
+         {"key":"视觉","name":"视觉≛盛宴","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,
+   "ext":"jrytgWz8W3BsIGIs/QktiAoZ7DtDplwV9Pg7bF8WHnTF5F2klyA77RixFCdoINLj8nCqhlMNuwB1Pb2inNFkZjh8RyGN7ZiOnqpb+aNKTWc/Jck9cfN+SNPCNjjnciGaRqH02Q0iKQBwU/zWOS96pWBxD9lY0qzeNbz4IrokjL7REfCrRVCcOVrXRuY+Pqa4W64no+kOxEzgiXo2D2z1M5rewxwQD0hMFq8psl+TndXgy3T02vKjjNzGT6U7IqR2O1BPEj7GbFWtGZHeYsMp9/hvlhKj6zpekdc/TuxTAQ5+zLGSoL5rrwLOlEr+OSpeT8C6bDxI9wvvmIoFMLMmgHEo2weV2KgP6r6MONUo7B7UlSWSydzHsXYKjcM0Z0kk5GO6eCn2/H3nDnhccyOtL101S4JRTPAsF4FStqYRibK/I1jwUd8+tUxUKtHRqb2tSD5g0HzcKjZGSCvw/drZKG2dEtOEFhb8f6b3f+UH6f8oGOPrw5n/sUmWoMtNV6qO0uXgisoIBGcesdlXaZd7ZmFwecyipGGkUh2L+uHKTpGBYXpwYZweuESOdeaemVcEiPWs0uvWxi3fQHvhYyVOORJxrVWwwkxAOUGbQCCXxeghANz9NPwK6ff6siV0+p2486wXV55TX8rR8UakzQ1f7/5PaFp5FnjQEzwmkPF/zzE4="},
         {
             "key": "csp_Xunlei8",
             "name": "🧲 迅雷≛迅雷 ",
@@ -216,18 +218,7 @@
                 "影视解说"
             ]
         },
-        {
-            "key": "Wobgpg",
-            "name": "玩偶≛弹幕表哥",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "api": "csp_Wobg",
-            "jar": "https://jihulab.com/qianruan/jiekou/-/raw/main/ym/pg.jar",
-            "ext": "http://127.0.0.1:9978/file/千软汇/阿里/token.txt$$$null$$$1"
-        },
+        
             {
       "key": "apv2_刺桐",
       "name": "刺桐≛APP",
