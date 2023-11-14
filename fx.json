@@ -535,39 +535,9 @@
             "filterable": 1,
             "ext": "./lib/py_体育.py"
         },
-             {
-      "key": "Hdhive",
-      "name": "📀影巢",
-      "api": "csp_Hdhive",
-      "type": 3,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
-    },
-    {
-      "key": "Ppxzy",
-      "name": "📀皮皮虾",
-      "type": 3,
-      "timeout": 30,
-      "api": "csp_Ppxzy",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://ppxzy.net/$$$null"
-    },
-    {
-      "key": "XiaoZhang",
-      "name": "📀校长影视",
-      "type": 3,
-      "timeout": 30,
-      "api": "csp_XiaoZhang",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
-    },
-    {
-      "key": "TZFile",
-      "name": "📀团长资源",
-      "type": 3,
-      "timeout": 30,
-      "api": "csp_TZFile",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
-    },
+           
 
-     {
+       {
       "key": "csp_woggcli",
       "name": "玩偶≛cli",
       "type": 4,
@@ -576,8 +546,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt"
-    },
-    {
+      },
+      {
       "key": "csp_XYQHikerAL_阿里云盘网",
       "name":"阿里≛云盘",
       "type":3,
@@ -1456,16 +1426,10 @@
     ],
      
     "parses": [
-        {
-            "name": "解析并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "自动嗅探",
-            "type": 3,
-            "url": "Web"
-        },
+       // { "name": "解析并发","type": 2, "url": "Parallel"  },
+       // { "name": "自动嗅探","type": 3, "url": "Web"       },
+        {"name":"并发","type":3,"url":"Demo"},
+        {"name":"聚合","type":3,"url":"Web"},
         {
             "name": "官解1",
             "type": 1,
