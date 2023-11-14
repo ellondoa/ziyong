@@ -545,7 +545,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7984abb3f03c447196459eebd03eda63"
+      "ext": "https://ghproxy.com/raw.github.com/wlcmc1972/tvbox/main/alitoken.txt"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -1640,7 +1640,6 @@
             "name": "嗅探4",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
-            "type": 0,
          "ext": {
            "flag": [
             "qiyi",
