@@ -64,12 +64,14 @@
         {
             "key": "疼疼",
             "name": "腾腾≛资源",
-            "type": 3,
-            "api": "csp_QQ",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
+            "type":3,
+            "api":"./js/lib/drpy2.min.js",
+            "ext":"./js/tengxun.js",
+            //"api": "csp_QQ",
+            //"style": {
+              //  "type": "rect",
+             //   "ratio": 1.33
+           // },
             "searchable": 1,
             "filterable": 1,
             "changeable": 1
