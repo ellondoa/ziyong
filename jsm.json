@@ -62,6 +62,79 @@
          "filterable" : 1
         },
         {
+      "key": "csp_秋秋",
+      "name": "🐧腾讯",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
+      "playUrl": "json:http://61.147.93.21:8090/index.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
+    },
+    {
+      "key": "csp_艺艺",
+      "name": "💜奇艺",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",      
+      "playUrl": " json:https://dx.maclsj.com/blue/json.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
+    },
+    {
+      "key": "csp_搜搜",
+      "name":  "🦊搜狐",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
+            "key": "腾讯",
+            "name": "🐧腾讯┃视频",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "https://tvmvip.com/xc/js/%E8%85%BE%E8%AE%AF.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "💜奇艺┃视频",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "https://tvmvip.com/xc/js/%E5%A5%87%E5%BC%82.js"
+        },
+        {
+            "key": "优酷",
+            "name": "🆒优酷",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "https://tvmvip.com/xc/js/%E4%BC%98%E9%85%B7.js"
+        },
+         {
+            "key": "搜狗",
+            "name": "🐶搜狗┃视频",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "http://8.210.232.168/ys/dr_py/js/%E6%90%9C%E7%8B%97.js"
+        },
+        {
+            "key": "芒果",
+            "name": "🍋芒果┃影视",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "https://tvmvip.com/xc/js/%E8%8A%92%E6%9E%9C.js"
+        },
+        {
             "key": "疼疼",
             "name": "腾腾≛资源",
             "type": 3,
