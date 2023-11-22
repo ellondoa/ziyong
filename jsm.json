@@ -66,6 +66,7 @@
             "name": "腾腾≛资源",
             "type": 3,
             "api": "csp_QQ",
+            "spider": "./YSC.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -79,6 +80,7 @@
             "name": "奇艺≛资源",
             "type": 3,
             "api": "csp_IQIYI",
+            "spider": "./YSC.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -92,6 +94,7 @@
             "name": "忙果≛资源",
             "type": 3,
             "api": "csp_MGTV",
+            "spider": "./YSC.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -105,6 +108,7 @@
             "name": "优酷≛资源",
             "type": 3,
             "api": "csp_YOUKU",
+            "spider": "./YSC.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -187,6 +191,7 @@
             "name": "┃SP≛360影视",
             "type": 3,
             "api": "csp_SP360",
+            "spider": "./YSC.jar",
 			"playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -1110,11 +1115,11 @@
             "type": 1,
             "url": "http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
         },
-        {
-            "name": "官解5",
-            "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-        },
+        //  {
+        //    "name": "官解5",
+        //    "type": 1,
+        //    "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+       // },
         {
             "name": "官解6",
             "type": 1,
