@@ -256,34 +256,22 @@
         "quickSearch":1,
         "filterable":1
         },
-       {
-           "key": "csp_WoGG",
-           "name": "玩偶≛哥哥4K",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 0.8
-                     },
-          "api": "csp_WoGG",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "7984abb3f03c447196459eebd03eda63",
-           "jar": "./lib/rski.js"
-        },
-           {
-            "key": "Wobg",
-            "name": "♻️阿里≛玩偶表哥",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/pg.jar",
-            "api": "csp_Wobg",
-            "ext": "./alitoken.txt$$$http://wobge.run.goorm.io"
-        },
-        {"key":"猫农民",
+      // {
+       //    "key": "csp_WoGG",
+      ///     "name": "玩偶≛哥哥4K",
+      //      "type": 3,
+      //      "style": {
+      //          "type": "rect",
+       //         "ratio": 0.8
+      //               },
+      //    "api": "csp_WoGG",
+       //   "searchable": 1,
+       //   "quickSearch": 1,
+       //   "filterable": 1,
+        //  "ext": "7984abb3f03c447196459eebd03eda63",
+       //    "jar": "./lib/rski.js"
+       // },
+             {"key":"猫农民",
         "name":"猫猫≛农民",
         "type":3,
         "api":"./lib/猫农民.js"
@@ -300,6 +288,19 @@
             "filterable": 1
 			
         },
+        {
+            "key": "Wobg",
+            "name": "♻️阿里≛玩偶表哥",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/pg.jar",
+            "api": "csp_Wobg",
+            "ext": "./alitoken.txt$$$http://wobge.run.goorm.io"
+        },
+      
       //  {
     //  "key": "csp_WoGG4",
    //   "name": "4时光| 玩偶T4",
@@ -368,16 +369,16 @@
         ]
       }
     },
-           {
-      "key": "csp_woggcli",
-      "name": "♻️T4≛俊哥玩偶",
-      "type": 4,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/JGWO.jar",
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+     //      {
+    //  "key": "csp_woggcli",
+    //  "name": "♻️T4≛俊哥玩偶",
+   //   "type": 4,
+    //  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/JGWO.jar",
+    //  "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+    //  "searchable": 1,
+    //  "quickSearch": 1,
+    //  "filterable": 1
+    //},
                 {
             "key": "csp_XiaoYa_小雅",
             "name": "小雅≛搜索²",
