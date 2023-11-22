@@ -1,0 +1,124 @@
+
+       
+        {
+            "name": "官解0",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url="
+        },
+        {
+            "name": "官解1",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
+        },
+        {
+            "name": "官解2",
+            "type": 1,
+            "url": "https://jxjson.cf/json.php?url="
+        },
+        {
+            "name": "官解3",
+            "type": 1,
+            "url": "http://61.147.93.21:8090/index.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "mgtv",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
+            "name": "官解4",
+            "type": 1,
+            "url": "http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
+        },
+        {
+            "name": "官解5",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+        },
+        {
+            "name": "官解6",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
+        },
+        {
+            "name": "官解7",
+            "type": 1,
+            "url": "http://115.231.220.36:9999/jx/tvbox/jx.php?url="
+        },
+     
+        {
+            "name": "官解8",
+            "type": 1,
+            "url": "http://119.91.123.253:1234/Api/cs.php?url="
+        },
+        {
+            "name": "热剧1",
+            "type": 1,
+            "url": "http://jx.daenys.vip:2587/tjxdsg.php?url=",
+            "ext": {
+                "flag": [
+                    "aliyun",
+                    "yzm"
+                ]
+            }
+        },
+        {
+            "name": "嗅探1",
+            "type": 0,
+            "url": "https://www.8090.la/8090/?url="
+        },
+        {
+            "name": "嗅探2",
+            "type": 0,
+            "url": "https://svip.bljiex.cc/?v="
+        },
+        {
+            "name": "嗅探3",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "嗅探4",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url="
+        },
+        {
+            "name": "嗅探5",
+            "type": 0,
+            "url": "https://www.kkvip2022.com/vip/jiexi1/?url="
+        },
+        {
+            "name": "嗅探6",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "嗅探7",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name": "嗅探8",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="
+        },
+        {
+            "name": "嗅探9",
+            "type": 0,
+            "url": "https://jx.0ry.cn/?url="
+        },
+        {
+            "name": "嗅探10",
+            "type": 0,
+            "url": "https://www.qiaoji8.com/tvbox/json1.php?url="
+        },
+           {"name":"神嗅1","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+     {"name":"神嗅2","url":"https://jx.bozrc.com:4433/player/?url=","showType":1},
+     {"name":"神嗅3","type":0,"url":"https://jx.aidouer.net/?url="},
+     {"name":"神嗅4","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+     {"name": "神嗅5","type": 0,"url": "https://jx.jsonplayer.com/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+     {"name": "神嗅6","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+     {"name": "神嗅7","type": 0,"url":"https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="}
+    ],
