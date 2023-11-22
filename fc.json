@@ -12,7 +12,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "玉玉软件：接口免费，每次打开记得长按主页刷新",
+  "warningText": "每次打开记得长按主页刷新",
   "sites": [
     {
       "key": "dr_豆瓣",
