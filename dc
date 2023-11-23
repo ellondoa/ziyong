@@ -21,290 +21,77 @@
 { "url": "https://agit.ai/wekeyfisrt/localcang/raw/branch/main/菜妮丝/api.json", "name": "菜妮丝" },
 
 { "url": "https://agit.ai/wekeyfisrt/localcang/raw/branch/main/巧儿/api.json", "name": "巧儿" },
- {
-            "name": "【公众号：非凡工具箱】",
-            "url": "https://codeberg.org/jgfx/jg112/raw/branch/master/jg1101.json"
-        },
-        {
-            "name": "【4K线路】",
-            "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
-        },
-        {
-            "name": "【短剧大全】",
-            "url": "https://pan.shangui.cc/f/8Qybfo/ssjyz.txt"
-        },
-        {
-            "name": "【极速云】",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-        },
-        {
-            "name": "📺荷城茶秀备用",
-            "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"
-        },
-        {
-            "name": "📺多多",
-            "url": "http://yydsys.top/duo"
-        },
-        {
-            "name": "📺多多阿里",
-            "url": "http://yydsys.top/duo/ali"
-        },
-        {
-            "name": "📺饭太硬",
-            "url": "http://饭太硬.top/tv"
-        },
-        {
-            "name": "📺小米暴脾气",
-            "url": "http://xhww.fun:63/小米/DEMO.json"
-        },
-        {
-            "name": "📺肥猫",
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
-        },
-        {
-            "name": "📺肥猫通用线",
-            "url": "http://刚刚.live/猫"
-        },
-        {
-            "name": "📺肥猫影视专用线",
-            "url": "http://肥猫.love"
-        },
-        {
-            "name": "📺道长",
-            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
-        },
-        {
-            "name": "📺影视仓",
-            "url": "https://weixine.net/ysc.json"
-        },
-        {
-            "name": "📺饭佬备份",
-            "url": "http://fan.xxooo.cf/tv"
-        },
-        {
-            "name": "📺菜妮丝",
-            "url": "https://tvbox.cainisi.cf"
-        },
-        {
-            "name": "📺俊宇",
-            "url": "http://home.jundie.top:81/top98.json"
-        },
-        {
-            "name": "📺吾爱",
-            "url": "http://52bsj.vip:98/wuai"
-        },
-        {
-            "name": "📺巧技",
-            "url": "http://pandown.pro/tvbox/tvbox.json"
-        },
-        {
-            "name": "📺欧歌",
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"
-        },
-        {
-            "name": "📺魔饭",
-            "url": "https://pastebin.com/raw/5NHaxyGR"
-        },
-        {
-            "name": "📺夜猫子少儿",
-            "url": "https://download.kstore.space/download/3313/app/ymshaoer.txt"
-        },
-        {
-            "name": "📺高天流水",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-        },
-        {
-            "name": "📺南风",
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-        },
-        {
-            "name": "📺心魔",
-            "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
-        },
-        {
-            "name": "📺二哈",
-            "url": "https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"
-        },
-        {
-            "name": "📺云星",
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
-        },
-        {
-            "name": "📺阿里采集",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json"
-        },
-        {
-            "name": "📺分享者",
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
-        },
-        {
-            "name": "📺ABC",
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
-        },
-        {
-            "name": "📺神仙心动提供",
-            "url": "https://jihulab.com/shenxianyingshi/sxys/-/raw/main/sx.json"
-        },
-        {
-            "name": "📺不良帅",
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"
-        },
-        {
-            "name": "📺业余",
-            "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json"
-        },
-        {
-            "name": "📺Z1",
-            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json"
-        },
-        {
-            "name": "📺精简",
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
-        },
-        {
-            "name": "📺跑马",
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/m.json"
-        },
-        {
-            "name": "📺肥猫",
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
-        },
-        {
-            "name": "📺989",
-            "url": "https://wds.ecsxs.com/230989.json"
-        },
-        {
-            "url": "https://agit.ai/30215429/TVBox/raw/branch/master/sft.txt",
-            "name": "🎬爽翻天主线路"
-        },
-        {
-            "url": "http://itvbox.cc/sft/sft.m3u8",
-            "name": "🎬爽翻天备用线路"
-        },
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "🎬肥猫Panda线路"
-        },
-        {
-            "url": "http://饭太硬.top/tv",
-            "name": "🎬饭太硬线路"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🎬小米线路"
-        },
-        {
-            "url": "http://刚刚.live/猫",
-            "name": "🎬刚刚线路"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-            "name": "🎬香雅情1线路"
-        },
-        {
-            "url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json",
-            "name": "🎬香雅晴2线路"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🎬菜尼丝线路"
-        },
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🎬南风线路"
-        },
-        {
-            "url": "https://神器每日推送.tk/pz.json",
-            "name": "🎬神器线路"
-        },
-        {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "🎬吾爱1线路"
-        },
-        {
-            "url": "http://suo.im/9iyzB",
-            "name": "🎬吾爱2线路"
-        },
-        {
-            "url": "http://yydsys.top/duo",
-            "name": "🎬多多家庭线路"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "🎬月光线路1"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🎬俊宇线路"
-        },
-        {
-            "url": "http://369936.xyz/web119",
-            "name": "🎬春风影视线路"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🎬蜂蜜线路"
-        },
-        {
-            "url": "https://s2.pub/cally",
-            "name": "🎬cally线路"
-        },
-        {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "🎬分享者1线路"
-        },
-        {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "🎬分享者2线路"
-        },
-        {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-            "name": "🎬不良帅线路"
-        },
-        {
-            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "name": "🎬叁Z线路"
-        },
-        {
-            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
-            "name": "🎬军碟线路"
-        },
-        {
-            "url": "https://dybz.store/dybz",
-            "name": "🎬大眼仔线路"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tvbox.json",
-            "name": "🎬喵影视线路"
-        },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🎬雨滴线路"
-        },
-        {
-            "url": "http://lltv8.top/",
-            "name": "🎬猎狼线路"
-        },
-        {
-            "url": "https://agit.ai/lcx/11/raw/branch/master/12",
-            "name": "🎬刘慈欣线路"
-        },
-        {
-            "url": "http://ysc.weixine.net:33/",
-            "name": "🎬运输车线路"
-        },
-        {
-            "url": "http://8.210.232.168/xc.json",
-            "name": "🎬玉玉线路"
-        },
-        {
-            "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json",
-            "name": "🎬业余线路"
-        },
-        {
-            "url": "https://pan.shangui.cc/f/4LBAF0/ali.json",
-            "name": "🎬业余阿里线路"
-        },
+ { "url": "https://codeberg.org/jgfx/jg112/raw/branch/master/jg1101.json",    "name": "非凡"  },
+        {          "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json","name": "【4K线路】" },
+        { "name": "【短剧大全】",            "url": "https://pan.shangui.cc/f/8Qybfo/ssjyz.txt"        },
+        {  "name": "【极速云】",  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"   },
+        {            "name": "📺荷城茶秀备用", "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json" },
+        {            "name": "📺多多",            "url": "http://yydsys.top/duo"        },
+        {            "name": "📺多多阿里",            "url": "http://yydsys.top/duo/ali"        },
+        {            "name": "📺饭太硬",            "url": "http://饭太硬.top/tv"        },
+        {            "name": "📺小米暴脾气",            "url": "http://xhww.fun:63/小米/DEMO.json"        },
+        {            "name": "📺肥猫",            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"        },
+        {            "name": "📺肥猫通用线",            "url": "http://刚刚.live/猫"        },
+        {            "name": "📺肥猫影视专用线",            "url": "http://肥猫.love"        },
+        {            "name": "📺道长",      "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"        },
+        {            "name": "📺影视仓",            "url": "https://weixine.net/ysc.json"        },
+        {            "name": "📺饭佬备份",            "url": "http://fan.xxooo.cf/tv"        },
+        {            "name": "📺菜妮丝",            "url": "https://tvbox.cainisi.cf"        },
+        {            "name": "📺俊宇",            "url": "http://home.jundie.top:81/top98.json"        },
+        {            "name": "📺吾爱",            "url": "http://52bsj.vip:98/wuai"        },
+        {            "name": "📺巧技",            "url": "http://pandown.pro/tvbox/tvbox.json"        },
+        {            "name": "📺欧歌",        "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"        },
+        {            "name": "📺魔饭",            "url": "https://pastebin.com/raw/5NHaxyGR"        },
+        {            "name": "📺夜猫子少儿",  "url": "https://download.kstore.space/download/3313/app/ymshaoer.txt"  },
+        {            "name": "📺高天流水",   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"  },
+        {            "name": "📺南风",      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"       },
+        {            "name": "📺心魔",            "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"        },
+        {            "name": "📺二哈",            "url": "https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"        },
+        {            "name": "📺云星",            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"        },
+        {            "name": "📺阿里采集",            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/ali.json"        },
+        {            "name": "📺分享者",            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"        },
+        {            "name": "📺ABC",            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"        },
+        {            "name": "📺神仙心动提供",            "url": "https://jihulab.com/shenxianyingshi/sxys/-/raw/main/sx.json"        },
+        {            "name": "📺不良帅",            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"        },
+        {            "name": "📺业余",       "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json"    },
+        {            "name": "📺Z1",            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json"      },
+        {            "name": "📺精简",            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"       },
+        {            "name": "📺跑马",       "url": "https://agit.ai/ddx/TVBox/raw/branch/master/m.json"        },
+        {            "name": "📺肥猫",            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"        },
+        {            "name": "📺989",            "url": "https://wds.ecsxs.com/230989.json"        },
+        {            "url": "https://agit.ai/30215429/TVBox/raw/branch/master/sft.txt",  "name": "🎬爽翻天主线路"   },
+        {            "url": "http://itvbox.cc/sft/sft.m3u8",            "name": "🎬爽翻天备用线路"        },
+        {            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",            "name": "🎬肥猫Panda线路"        },
+        {            "url": "http://饭太硬.top/tv",            "name": "🎬饭太硬线路"        },
+        {            "url": "http://xhww.fun:63/小米/DEMO.json",            "name": "🎬小米线路"        },
+        {            "url": "http://刚刚.live/猫",            "name": "🎬刚刚线路"        },
+        {            "url": "https://gh-proxy.com/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",            "name": "🎬香雅情1线路"        },
+        {            "url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json",        "name": "🎬香雅晴2线路"        },
+        {            "url": "https://tvbox.cainisi.cf",            "name": "🎬菜尼丝线路"        },
+        {            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",         "name": "🎬南风线路"},
+        {            "url": "https://神器每日推送.tk/pz.json",            "name": "🎬神器线路"        },
+        {            "url": "http://52bsj.vip:98/wuai",            "name": "🎬吾爱1线路"        },
+        {            "url": "http://suo.im/9iyzB",            "name": "🎬吾爱2线路"        },
+        {            "url": "http://yydsys.top/duo",            "name": "🎬多多家庭线路"        },
+        {            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",            "name": "🎬月光线路1"        },
+        {            "url": "http://home.jundie.top:81/top98.json",            "name": "🎬俊宇线路"        },
+        {            "url": "http://369936.xyz/web119",            "name": "🎬春风影视线路"        },
+        {            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",            "name": "🎬蜂蜜线路"        },
+        {            "url": "https://s2.pub/cally",            "name": "🎬cally线路"        },
+        {            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",     "name": "🎬分享者1线路"  },
+        {            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",            "name": "🎬分享者2线路"        },
+        {            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8", "name": "🎬不良帅线路"},
+        {            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",        "name": "🎬叁Z线路"    },
+        {            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",            "name": "🎬军碟线路"        },
+        {            "url": "https://dybz.store/dybz",            "name": "🎬大眼仔线路"        },
+        {            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tvbox.json",     "name": "🎬喵影视线路"        },
+        {            "url": "http://pandown.pro/tvbox/tvbox.json",            "name": "🎬雨滴线路"        },
+        {            "url": "http://lltv8.top/",            "name": "🎬猎狼线路"        },
+        {            "url": "https://agit.ai/lcx/11/raw/branch/master/12",            "name": "🎬刘慈欣线路"        },
+        {            "url": "http://ysc.weixine.net:33/",            "name": "🎬运输车线路"        },
+        {            "url": "http://8.210.232.168/xc.json",            "name": "🎬玉玉线路"        },
+        {            "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json",    "name": "🎬业余线路"      },
+        {            "url": "https://pan.shangui.cc/f/4LBAF0/ali.json",            "name": "🎬业余阿里线路"      },
         {
             "url": "https://pan.shangui.cc/f/mPecb/%E9%87%87%E9%9B%86.json",
             "name": "🎬业余采集线路"
