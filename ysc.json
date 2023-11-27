@@ -2,7 +2,7 @@
 
 
 {
-	"spider": "./YSC.jar",
+	"spider": "https://weixine.net/YSC.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	 "lives": 
          [
