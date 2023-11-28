@@ -12,7 +12,8 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/live.txt",
+            "url":"https://pan.shangui.cc/f/RJG6uz/%E7%94%B5%E8%A7%86%E5%AE%B6.txt",
+            //"url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
