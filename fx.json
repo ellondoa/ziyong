@@ -191,30 +191,7 @@
           //  "searchable":1,"quickSearch":1,"filterable":1,
          //   "ext":"https://cloud.lxweb.cn/f/emARta/2.js"
         //},
-         {"key":"爱奇异",
-         "name":"爱爱≛奇艺",
-         "type":3,
-         "api":"./lib/drpy2.min.js",
-         "ext":"./lib/aiqiyi.js"
-         },
-         {"key":"优酷",
-         "name":"优酷≛优酷",
-         "type":3,
-         "api":"./lib/drpy2.min.js",
-         "ext":"./lib/youku.js"
-         },
-         {"key":"腾讯",
-         "name":"腾腾≛腾讯",
-         "type":3,
-         "api":"./lib/drpy2.min.js",
-         "ext":"./lib/tengxun.js"
-         },
-         {"key":"芒果",
-         "name":"忙忙≛芒果",
-         "type":3,
-         "api":"./lib/drpy2.min.js",
-         "ext":"./lib/mangguo.js"
-         },
+       
          {"key":"搜狗",
          "name":"搜搜≛搜狗",
          "type":3,
