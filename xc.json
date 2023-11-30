@@ -12,7 +12,6 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    "warningText": "玉玉软件：接口免费，每次打开记得长按主页刷新",
     "sites": [
          {"key": "dr_豆瓣","name":"「公众号（玉玉软件库）」ㅤ官网:yyrj.xyz","type": 3,"api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://8.210.232.168/tv/box/js/douban.js"},
           {
@@ -25,17 +24,8 @@
       "ext": "http://8.210.232.168/gzh.json",
       "jar": "http://8.210.232.168/fm商店.jar"
     },
-                  {"key": "新片热播","name": "🤟新片⚡️","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["电影","连续剧","动漫"]},
-           {
-      "key": "YGP",
-      "name": "🆙预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "jar":" https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+          {"key": "新片热播","name": "🤟新片⚡️","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["电影","连续剧","动漫"]},
+    //{"key": "YGP","name": "🆙预告","type": 3,"api": "csp_YGP","jar":" https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",      "searchable": 0, "quickSearch": 0,"changeable": 0},
     {"key": "csp_AppMr","name": "🤵 影.视.范","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/lianes/lanco/raw/master/custom_spider.jar"},
     {"key": "drpy_骚火电影","name": "🔥 烧火","type": 3,"searchable": 1,"changeable": 1,"playerType": 1,"api": "https://agit.ai/qi169/kankan/raw/branch/master/drpy2.min.js","ext": "https://agit.ai/qi169/kankan/raw/branch/master/js/骚火.js"},
     {
@@ -174,8 +164,8 @@
       "key": "畅梦",
       "name": "🦄畅梦",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
    },
      {
             "key" : "js_v2-jy",
