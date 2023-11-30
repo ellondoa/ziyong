@@ -12,6 +12,38 @@
         }
     ],
     "sites": [
+           {
+      "key": "drpy_js_优酷1",
+      "name": "💕优酷(官源)",
+      "type": 3,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/youku.js"
+    },
+    {
+      "key": "搜狗2",
+      "name": "💕搜狗(官源)",
+      "type": 3,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/sougou.js"
+    },
+    {
+      "key": "腾讯2",
+      "name": "💕腾讯(官源)",
+      "type": 3,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/tengxun.js"
+    },
+    {
+      "key": "爱奇异",
+      "name": "💕爱奇艺(官源)",
+      "type": 3,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/iqy.js"
+    },
         {
             "key": "三六资源",
             "name": "三六≛资源",
