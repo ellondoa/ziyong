@@ -1208,6 +1208,18 @@
         "renrenmi"
     ],
     "rules": [
+      {
+	    	"name": "嗅探过滤",
+	    	"host": "*",
+	    	"rule": [
+	    		"http((?!http).){12,}?\\.(m3u8|mp4|ts|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+	    	],
+	    	"filter": [
+	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
+	    	]
+	    
+	    },
+      
         {
             "host": "www.iesdouyin.com",
             "rule": [
