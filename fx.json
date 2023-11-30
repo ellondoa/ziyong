@@ -1492,15 +1492,108 @@
         }
     ],
      "parses": [ 
-      {	"name": "解析",	"type": 3,"url": "Demo"	}, 
-      {"name":"Json并发","type":2,"url":"Parallel"},
-      {"name":"Json轮询","type":2,"url":"Sequence"},
+      {"name":"智能解析","type":2,"url": "Sequence"},
+{"name": "自动解析","type": 2,"url": "Parallel"},
+{"name":"超级解析","type":3,"url":"Demo"},
+{"name":"超级嗅探","type":3,"url":"Web"},
+
+{"name":"💕推荐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="}, 
+{"name":"💕推荐1","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
+        {"name":"💕推荐2","type":1,"url":"http://103.42.31.123:5821/jx/?url= "},
+		{"name":"💕分享默认","type":1,"url":"https://www.qiaoji8.com/tvbox/wudi.php?url="},
+        {
+            "name": "分享智能",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
+        },
+        {
+            "name": "分享智能1",
+            "type": 1,
+            "url": "http://119.91.123.253:2345/Api/yun.php?url="
+        },
+        {
+      "name": "分享智能2",
+      "type": 1,
+      "url": "https://jx.shaoze.xyz/web/json?token=5201340&url="},
+      {"name":"分享飞魚","type":1,"url":"http://103.42.31.123:5821/jx/?url="},
+            {"name": "分享自动","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+             {"name": "分享聚合1", "type": 1, "url": "https://api.xn--od1aq39b.net/api/?key=l80ttV8dvu7OXdFShJ&url="},
+ {"name": "分享聚合2", "type": 1, "url": "https://jxjson.cf/json_balabala.php?url="},
+			{
+  "name": "分享聚合", 
+  "type": 1, "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url="},  
+{
+            "name": "分享VIP",
+            "type": 0,
+            "url": "https://vip.lianfaka.com/vip/?url="},
+        {
+			"name": "分享官解",
+			"type": 1,
+			"url": "http://jx.lem.icu/api/?key=027181cefdc41cfdd2efa074f2fcf722&url="},
+			{
+      "name": "分享官解2",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=ilqtBFJKOSUW016789&url="
+    },
+    {
+      "name": "分享有鱼", 
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=4361364&key=eghprtvxEJPRUWX039&url="
+    },
+			{
+			"name": "分享遇见1",
+			"type": 1,
+			"url": "http://jx.lem.icu/api/?key=027181cefdc41cfdd2efa074f2fcf722&url="
+		},
+{
+      "name": "分享遇见",
+      "type": 1,
+      "url": "https://jxjson.cf/json.php?url="},
+
+{"name":"推荐💕","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+
+       {
+           "name": "分享77",
+           "type": 1,
+           "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+       },
+    
+    {"name":"分享自建","type":1,"url":"http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=afghlpwxAEGLX01235&url="},
+    {"name":"分享厘米","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url="},
+        {
+			"name": "分享小成",
+			"type": 1,
+			"url": "https://bfq.cddys.me/nimasile2/API.php?url="},
+		{
+			"name": "分享电影港",
+			"type": 1,
+			"url": "https://wuzei.serv00.net/jx/lianfaka.php?url="
+		},
+		{
+			"name": "分享非凡量子",
+			"type": 1,
+			"url": "https://wuzei.serv00.net/jx/tofflz.php?url="
+		},
+{"name":"分享妙妙","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+{"name":"★左岸★","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
       {"name": "102509","type": 1,"url": "https://jx.961691.com/player/?url="},
       { "name": "解析线路2", "url": "https://jx.961691.com/player/?url=", "type": 0, "ext": { "header": { "User-Agent": "Mozilla/5.0"  }}},   
          { "name": "解析2",  "type": 1, "url": "http://61.147.93.21:8090/index.php?url="    },
          {"name": "智能","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
          { "name": "zh",        "type": 1,     "url": "https://dx.maclsj.com/blue/json.php?url="       },
          {"name": "手动","type": 1,"url": "https://dx.maclsj.com/blue/json.php?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+          {
+      "name": "解析1",
+      "type": 1,
+      "url": "https://cache.json.icu/a1804857380.php?url="
+    },
+    {
+      "name": "解析3",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+
+
          {"name": "嗅探0-", "type": 0, "url": "https://p8.a8ys.xyz/player/lgec.php?code=a8ys&from=a8all&key=TYYXG98&pid=239412&psid=7&pnid=1&url="   },
          {"name": "嗅探1", "type": 0,   "url": "https://jx.jsonplayer.com/player/?url="     },
          {"name": "嗅探2", "type": 0,   "url": "https://jx.bozrc.com:4433/player/?url="        },
@@ -1515,6 +1608,7 @@
          {"name": "神仙嗅探6","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
          {"name": "神仙嗅探7","type": 0,"url":"https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="}], 
     
+       
     //"flags": ["youku","qq", "iqiyi",  "qiyi",  "letv",  "sohu", "tudou", "pptv", "mgtv", "bilibili" ],
     "flag": ["youku","qq", "iqiyi",  "qiyi",  "letv",  "sohu", "tudou", "pptv", "mgtv", "bilibili" , "qq",
                     "腾讯",
@@ -1648,7 +1742,20 @@
         "哔 哩",
         "哔 哩 哔 哩"
                 ],
+            
     "rules": [
+       {
+	    	"name": "嗅探过滤",
+	    	"host": "*",
+	    	"rule": [
+	    		"http((?!http).){12,}?\\.(m3u8|mp4|ts|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+	    	],
+	    	"filter": [
+	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
+	    	]
+	    
+	    },
+
         { 
             "name": "采集站广告",
             "hosts":
