@@ -71,17 +71,8 @@
             "filterable": 0,
             "api": "./lib/lf_search3_min.js"
         },
-        {
-			"key": "push_agent",
-			"name": "┃云盘┃推送云盘",
-			"type": 3,
-			"api": "csp_Push",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"jar":"./lib/fan1203.jar",
-			"ext": "./alitoken.txt+auto|4k|fhd"
-		},
+       // {"key": "push_agent","name": "┃云盘┃推送云盘","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,	"filterable": 0,
+		//	"jar":"./lib/fan1203.jar",	"ext": "./alitoken.txt+auto|4k|fhd"	},
 
                    {
             "key": "csp_QQ",
