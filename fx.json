@@ -159,6 +159,448 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/厂长资源.js"
         },
+        //以下为玩偶
+                
+{
+     "key": "csp_KungFu404",
+     "name":"🎦阿狸设置",
+     "type": 3, 
+     "api": "csp_KungFu404", 
+     "searchable":1,
+     "filterable": 0, 
+     "changeable":0,
+     "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/alisz.jar"
+    },
+        {
+      "key": "应用商店",
+      "name": "🏫应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/JS/yysd.json",
+      "jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
+    },
+    {
+            "key": "小纸条_cli",
+            "name": "纸条┃T4 ",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ",/token.txt",
+            "timeout": 30
+    },
+   {
+      "key": "Wogg",
+      "name": "玩偶┃PG",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/pg.jar",
+      "api": "csp_Wogg",
+      "ext": ",/token.txt$$$https://api.wogg.xyz/"
+    },
+    {
+            "key": "csp_WoGG",
+            "name": "玩偶┃FS",
+            "type": 3,
+            "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fan.txt",
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": ",/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
+    },
+    {
+            "key": "csp_XYQHikerAL",
+            "name": "玩偶┃HK",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+            "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/玩偶哥哥.json"
+    },
+    {
+            "key": "csp_woggcli",
+            "name": "玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ",/token.txt"
+    },
+    {
+      "key": "Wogg1",
+      "name": "玩偶┃GG",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": ",/token.txt",
+        "filter": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/JS/wogg.json",
+        "danmu": false
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "Wobg",
+      "name": "玩偶┃BG",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/pg.jar",
+      "api": "csp_Wobg",
+      "ext": ",/token.txt$$$http://wobge.run.goorm.io"
+    },
+    {
+     "key": "csp_WoGG1",
+     "name": "玩偶┃BY",
+     "type": 3,
+     "style": {
+       "type": "rect",
+       "ratio": 0.8
+     },
+     "api": "csp_WoGG",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/rski.js",
+     "ext": "7984abb3f03c447196459eebd03eda63" 
+    },
+    {
+      "key": "玩偶弹幕版",
+      "name": "玩偶┃DM",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": ",/token.txt",
+        "filter": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/wogg.json",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "咖咖┃4K",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./HeChengChaXiu.jar",
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+    },
+    {
+      "key": "影巢",
+      "name": "巢巢┃4K",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xry.jar",
+      "ext": ",/token.txt"
+    },
+    {
+     "key": "csp_XBPQ_6V",
+     "name": "宝宝┃4K",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/vip.jar",
+     "ext":"./h/6Vip.json"
+    },
+    { 
+      "key": "csp_XYQHiker_‍dyx", 
+      "name": "盒盒┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/spider.txt",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/dyg.json"    
+    }, 
+    { 
+      "key": "csp_XYQHikerlg4k", 
+      "name": "云云┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/spider.txt",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/4KHDR.json"     
+    }, 
+    { 
+      "key": "csp_XYQHiker4klg", 
+      "name": "盘盘┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/spider.txt",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/中国蓝光网.json"  
+    },
+    {
+      "key": "sohu",
+      "name": "搜搜(官)",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },  
+    {
+     "key":"SG",
+     "name":"狗狗(官)",
+     "type":3,
+     "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
+     "ext":"http://vip.weixine.link:88/js/caigou.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "爱爱(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/爱奇艺.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优优(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾腾(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/腾讯.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "芒芒(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/芒果.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "360(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/360.js"
+    },
+
+
+#云盘搜索
+
+   {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "七夜DM┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": ",/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "资源HK┃🍭",
+      "type": 3,
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key":"纸条",
+      "name":"纸条┃🍭",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key":"易搜",
+      "name":"易搜┃🍭",
+      "type":3,
+      "api":"csp_YiSo",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key":"云搜",
+      "name":"云搜┃🍭",
+      "type":3,
+      "api":"csp_UpYun",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":",/token.txt+4k|auto|fhd"
+    }, 
+    {
+      "key":"盘搜",
+      "name":"盘搜┃🍭",
+      "type":3,
+      "api":"csp_PanSearch",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Gitcafe1",
+      "name": "纸条HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "易搜HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "云搜HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "csp_AliPS1",
+      "name": "盘搜HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ",/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "纸条弹幕版",
+      "name": "纸条DM┃🍭",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": ",/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "易搜弹幕版",
+      "name": "易搜DM┃🍭",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": ",/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "盘Se弹幕版",
+      "name": "云搜DM┃🍭",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": ",/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "盘搜弹幕版",
+      "name": "盘搜DM┃🍭",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": ",/token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    //玩偶至此
           
           
           
