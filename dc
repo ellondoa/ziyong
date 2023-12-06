@@ -25,9 +25,9 @@
 
 { "url": "https://agit.ai/wekeyfisrt/localcang/raw/branch/main/巧儿/api.json", "name": "巧儿" },
  { "url": "https://codeberg.org/jgfx/jg112/raw/branch/master/jg1101.json",    "name": "非凡"  },
-        {          "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json","name": "【4K线路】" },
+        { "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json","name": "【4K线路】" },
         { "name": "【短剧大全】",            "url": "https://pan.shangui.cc/f/8Qybfo/ssjyz.txt"        },
-        {  "name": "【极速云】",  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"   },
+        {"name": "【极速云】",  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"   },
         {            "name": "📺荷城茶秀备用", "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json" },
         {            "name": "📺多多",            "url": "http://yydsys.top/duo"        },
         {            "name": "📺多多阿里",            "url": "http://yydsys.top/duo/ali"        },
