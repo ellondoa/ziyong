@@ -78,6 +78,19 @@
          // "spider":"https://agit.ai/wekeyfisrt/ziyoon/src/branch/main/lib/1205.tar",
          //"spider":"./xyq1204.jar",
          // "ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},   
+              {
+            "key": "csp_NT",
+            "name": "NT≛动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                
+                "分类url": "http://www.ntdm9.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+                "分类": "目录$riben"
+            } },
               {"key": "lf_js_search",
             "name": "聚聚≛合合",
             "type": 3,
