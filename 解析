@@ -1,4 +1,235 @@
     
+
+{
+      "key": "drpy_js_奇珍异兽",
+      "name": "爱爱(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/爱奇艺.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优优(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾腾(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/腾讯.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "芒芒(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/芒果.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "360(官)",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4679/lib/man.js",
+      "ext": "http://122.51.37.23/man/js/360.js"
+    },
+
+
+//云盘搜索
+
+   {
+      "key":"七夜",
+      "name":"七夜┃🍭",
+      "type":3,
+      "api":"csp_Dovx",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"./token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜弹幕版",
+      "name": "七夜DM┃🍭",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "./token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "资源HK┃🍭",
+      "type": 3,
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./token.txt+4k|auto|fhd"
+    },
+    {
+      "key":"纸条",
+      "name":"纸条┃🍭",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"./token.txt+4k|auto|fhd"
+    },
+    {
+      "key":"易搜",
+      "name":"易搜┃🍭",
+      "type":3,
+      "api":"csp_YiSo",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"./token.txt+4k|auto|fhd"
+    },
+    {
+      "key":"云搜",
+      "name":"云搜┃🍭",
+      "type":3,
+      "api":"csp_UpYun",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"./token.txt+4k|auto|fhd"
+    }, 
+    {
+      "key":"盘搜",
+      "name":"盘搜┃🍭",
+      "type":3,
+      "api":"csp_PanSearch",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fm.jar",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"./token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Gitcafe1",
+      "name": "纸条HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "易搜HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "云搜HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "csp_AliPS1",
+      "name": "盘搜HK┃🍭",
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "纸条弹幕版",
+      "name": "纸条DM┃🍭",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "./token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "易搜弹幕版",
+      "name": "易搜DM┃🍭",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "./token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "盘Se弹幕版",
+      "name": "云搜DM┃🍭",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "./token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+    {
+      "key": "盘搜弹幕版",
+      "name": "盘搜DM┃🍭",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "./token.txt+4k|auto|fhd",
+        "danmu": true
+      },
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/danmu.jar"
+    },
+
+
+
+
+
+
 	{"name":"智能解析","type":2,"url": "Sequence"},
 {"name": "自动解析","type": 2,"url": "Parallel"},
 {"name":"超级解析","type":3,"url":"Demo"},
