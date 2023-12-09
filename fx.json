@@ -251,6 +251,21 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/厂长资源.js"
         },
+            {
+      "key": "csp_XBPQ_短剧",
+      "name": "种子短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+
+      "jar": "./lib/xbpq.jar",     "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "分类url":"http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+        "分类":"快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1",
+        "搜索url":"http://web.zzdj.cc/index.php/vod/search.html?wd={wd}"
+      }
+    },       
         //以下为玩偶
                 
 {
