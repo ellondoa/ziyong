@@ -219,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ",/token.txt",
+            "ext": "./token.txt",
             "timeout": 30
     },
    {
@@ -232,7 +232,7 @@
       },
       "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/pg.jar",
       "api": "csp_Wogg",
-      "ext": ",/token.txt$$$https://api.wogg.xyz/"
+      "ext": "./token.txt$$$https://api.wogg.xyz/"
     },
     {
             "key": "csp_WoGG",
@@ -243,7 +243,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": ",/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
+            "ext": "./token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
     },
     {
             "key": "csp_XYQHikerAL",
@@ -255,7 +255,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
-            "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/玩偶哥哥.json"
+            "ext": "./token.txt+auto|4k|fhd$$$https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/玩偶哥哥.json"
     },
     {
             "key": "csp_woggcli",
@@ -265,7 +265,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": ",/token.txt"
+            "ext": "./token.txt"
     },
     {
       "key": "Wogg1",
@@ -276,7 +276,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": ",/token.txt",
+        "token": "./token.txt",
         "filter": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/JS/wogg.json",
         "danmu": false
       },
@@ -292,7 +292,7 @@
       },
       "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/pg.jar",
       "api": "csp_Wobg",
-      "ext": ",/token.txt$$$http://wobge.run.goorm.io"
+      "ext": "./token.txt$$$http://wobge.run.goorm.io"
     },
     {
      "key": "csp_WoGG1",
@@ -318,7 +318,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": ",/token.txt",
+        "token": "./token.txt",
         "filter": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/wogg.json",
         "danmu": true
       },
@@ -344,7 +344,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xry.jar",
-      "ext": ",/token.txt"
+      "ext": "./token.txt"
     },
     {
      "key": "csp_XBPQ_6V",
@@ -355,7 +355,7 @@
      "quickSearch": 1,
      "filterable": 1,
      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/vip.jar",
-     "ext":"./h/6Vip.json"
+     "ext":"./lib/6Vip.json"
     },
     { 
       "key": "csp_XYQHiker_‍dyx", 
