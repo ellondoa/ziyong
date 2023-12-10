@@ -497,7 +497,7 @@
           
 
 
-{"key":"csp_MeiJu69","name":"♋️69|美剧","spider":"https://jihulab.com/0004/0/-/raw/main/0.txt","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"csp_MeiJu69","name":"♋️69≛美剧","spider":"https://jihulab.com/0004/0/-/raw/main/0.txt","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 
 {
@@ -620,6 +620,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "spider":"./lib/fix1209nochuang.jar",
             "ext": "http://yycms.77ev.cn/api.php/app/"
         },
         {
