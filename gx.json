@@ -7,7 +7,8 @@
             "type": 0,
            // "url": "./lib/wfliving.txt",
           // "url": "https://weixine.net/tv/ysclive.txt",
-            "url":"http://home.jundie.top:81/Cat/tv/live.txt",
+          //  "url":"http://home.jundie.top:81/Cat/tv/live.txt",
+          "url":"https://gitee.com/amygotv/tvsource/raw/master/TVLives",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
