@@ -90,7 +90,20 @@
             "playerType": 2,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
             "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
         },
-        
+        {
+            "key": "应用商店",
+            "name": "🎁┃应用商店┃",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            }
+        },
 
 
         {
