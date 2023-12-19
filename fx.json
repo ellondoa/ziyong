@@ -21,7 +21,7 @@
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/360影视.js",
             "searchable": 1,
             "filterable": 1,
-            "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "changeable": 1
         },
         {
@@ -31,7 +31,7 @@
             "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/tengxun.js",
             "searchable": 1,
-            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "changeable": 1
         },
         {
@@ -41,7 +41,7 @@
             "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/youku.js",
             "searchable": 1,
-            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "changeable": 1
         },
         {
@@ -51,7 +51,7 @@
             "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/aiqiyi.js",
             "searchable": 1,
-            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "changeable": 1
         },
         {
@@ -61,7 +61,7 @@
             "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/drpy2.min.js",
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/mangguo.js",
             "searchable": 1,
-            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "changeable": 1
         },
         {
@@ -69,7 +69,7 @@
             "name": "暴风≛暴风",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "searchable": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "changeable": 1
         },
         {
@@ -78,7 +78,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "changeable": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "api": "csp_NanGua",
             "ext": "null$$$1"
         },
@@ -87,12 +87,12 @@
             "name": "蝴蝶≛蝴蝶",
             "type": 3,
             "api": "csp_Hudie",
-            "playerType": 2,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;",
+            "playerType": 2,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
         },
         {
             "key": "应用商店",
-            "name": "🎁┃应用商店┃",
+            "name": "应用≛商店",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
