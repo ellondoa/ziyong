@@ -85,11 +85,12 @@
         {
             "key": "蝴蝶",
             "name": "蝴蝶≛蝴蝶",
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
             "type": 3,
             "api": "csp_Hudie",
             "playerType": 2,
-            //"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
-            "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/fty.jar",
+            
+           // "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/fty.jar",
             "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
         },
         {
