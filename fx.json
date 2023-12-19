@@ -23,7 +23,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
+            //"spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
+             "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
         {
@@ -35,7 +36,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
+            //"spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
+             "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
         {
@@ -47,12 +49,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",//第1包
+            //"spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",//第1包
              //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",//第2包
            //  "spider": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",//第3包
            //  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",//测试包
           //  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7",//新版线路jar包
            // "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
+            "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
          //  {"key": "优酷资源","name": "👉优酷┃资源","type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
@@ -75,7 +78,7 @@
         "type": 3,
         "api": "./lib/sc1080_open.js"
       },
-        //{"key":"996影视","name":"996≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li class=\"col-md-6 col-sm-4 col-xs-3&&</li>","简介":"<p class=\"col-pd&&</p>","分类url":"https://www.cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&动漫&爽文短剧","分类值":"1&2&3&4"}},
+        {"key":"996影视","name":"996≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1, "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24","ext":{"数组":"<li class=\"col-md-6 col-sm-4 col-xs-3&&</li>","简介":"<p class=\"col-pd&&</p>","分类url":"https://www.cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&动漫&爽文短剧","分类值":"1&2&3&4"}},
        //  {
       //"key": "蝴蝶",
      // "name": "蝴蝶≛App",
@@ -113,6 +116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+       "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
       "ext": "http://jin.xn--kwra9540c.love/sj/caigou"
     },
            {"key": "drpy_js_哔哩教育",
