@@ -173,7 +173,12 @@
         "type": 3,
         "api": "./lib/sc1080_open.js"
       },
-        {"key":"996影视","name":"996≛影视", "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","type":3,"api":"./lib/ys996_open.js","searchable":1,"quickSearch":1,"filterable":1, "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24","ext":{"数组":"<li class=\"col-md-6 col-sm-4 col-xs-3&&</li>","简介":"<p class=\"col-pd&&</p>","分类url":"https://www.cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&动漫&爽文短剧","分类值":"1&2&3&4"}},
+        {"key":"996影视","name":"996≛影视","api":"./lib/drpy2.min.js", 
+        "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar",
+        "type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "ext":"./lib/ys996_open.js"},
+         //"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
+         //"ext":{"数组":"<li class=\"col-md-6 col-sm-4 col-xs-3&&</li>","简介":"<p class=\"col-pd&&</p>","分类url":"https://www.cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&动漫&爽文短剧","分类值":"1&2&3&4"}},
        //  {
       //"key": "蝴蝶",
      // "name": "蝴蝶≛App",
