@@ -173,6 +173,7 @@
         "type": 3,
         "api": "./lib/sc1080_open.js"
       },
+      {"key":"3456","name":"3456影视","type":3,"api":"csp_XBPQ","ext":{"线路标题":"\ud83c\udfee【\u7f16\u8f91\u262a\u6708\u5149\u6726\u80e7】\ud83c\udfee\u002b\u003e\u0026\u0026\u003c","分类url":"https://3456ys.com/vodtype/{cateId}&{area}&{class}&{year}&{catePg}/","分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
        //  {
       //"key": "蝴蝶",
      // "name": "蝴蝶≛App",
@@ -202,19 +203,10 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/疼疼.js"
         },
-                 {
-      "key": "js_菜狗",
-      "name": "爱优≛腾芒",
-      "type": 3,
-      "api": "http://jin.xn--kwra9540c.love/js/api.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      //"playUrl":"json:https://jx.zhanlangbu.com/?url=",
-        "spider": "http://jin.锦哥哥.love/jar/1.jar",
-      // "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
-      "ext": "http://jin.xn--kwra9540c.love/sj/caigou"
-    },
+                // {      "key": "js_菜狗","name": "爱优≛腾芒","type": 3,"api": "http://jin.xn--kwra9540c.love/js/api.js",
+    //  "searchable": 1,"quickSearch": 1,"filterable": 1, //"playUrl":"json:https://jx.zhanlangbu.com/?url=",
+    //    "spider": "http://jin.锦哥哥.love/jar/1.jar",   // "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
+     // "ext": "http://jin.xn--kwra9540c.love/sj/caigou"  },
            {"key": "drpy_js_哔哩教育",
            "name": " 哔哩≛教育",
            "type": 3,
