@@ -1127,6 +1127,7 @@
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
        "ext": "https://www.qiaoji8.com/jar1/token.txt"
     }, 
+     {"key":"T4_wogg","name":"玩偶≛TT","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=d6a1e4f89ffa44d59971480fffbf4fb4","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
       {"key": "csp_XYQHikerAL_玩偶哥哥",
       "name":"玩偶≛哥哥(优)",
       "type":3,
