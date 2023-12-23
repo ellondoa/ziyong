@@ -2234,11 +2234,6 @@
       }
     },
     {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
       "name": "神秘的哥哥们",
       "type": 1,
       "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
@@ -2486,7 +2481,8 @@
     {      "name": "幸福之家15号",      "type": 0,      "url": "https://play.86516.tk/OKPlayer/?url="    },
     {      "name": "幸福之家16号",      "type": 0,      "url": "https://h5.freejson.xyz/player/?url="    }
 ], 
-    
+   "flags":  ["youku","qq","QQ","iqiyi","qiqi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","FEI","XAL","QEYSS","aliyun","AliS","ddzy","kuying-zj","xfyun","wuduzy","wasu","bilibili","renrenmi","haiwaikan","cool","tnmb","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080","juquan4k","tucheng","yzm","seven","caihong","YuMi-vip"],
+
       // "flags": ["youku","qq", "iqiyi",  "qiyi",  "letv",  "sohu", "tudou", "pptv", "mgtv","CLK", "bilibili" ],
     
             
