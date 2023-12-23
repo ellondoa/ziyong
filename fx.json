@@ -2102,22 +2102,13 @@
           "xigua",
           "1905"        ]      }    },
     {      "name": "parwix",      "type": 0,      "url": "https://jx.parwix.com:4433/player/?url="    }, 
+     {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="},
     {
-      "name": "🎯超级解析一",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
-    },
+      "name": "🎯超级解析一",      "type": 1,      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="    },
    
+    {     "name": "🎯超级解析三",      "type": 1,      "url": "http://luoye.shop/jiexi/米太硬.php?url="    },
     {
-      "name": "🎯超级解析三",
-      "type": 1,
-      "url": "http://luoye.shop/jiexi/米太硬.php?url="
-    },
-    {
-      "name": "🎯超级嗅探",
-      "type": 0,
-      "url": "http://bfq.lxidc.top/player/ec.php?code=qw&if=1&url="
-    },
+      "name": "🎯超级嗅探",      "type": 0,      "url": "http://bfq.lxidc.top/player/ec.php?code=qw&if=1&url="    },
     {
       "name": "🎯超级嗅探一",
       "type": 0,
