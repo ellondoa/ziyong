@@ -2622,6 +2622,7 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
+        { "name": "proxy", "hosts": [ "youtube.com", "googlevideo.com", "googleapis.com", "ytimg.com", "nivod.tv", "tangrenjie.tv" ] },
         {
             "name": "暴风廣告",
             "hosts": [
