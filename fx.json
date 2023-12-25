@@ -167,13 +167,8 @@
             "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
-          {
-        "key": "sc1080",
-        "name": "圣城≛影视",
-        "type": 3,
-        "api": "./lib/sc1080_open.js"
-      },
-      {"key":"3456","name":"3456≛影视","type":3,"api":"csp_XBPQ","ext":{"线路标题":"\ud83c\udfee【\u7f16\u8f91\u262a\u6708\u5149\u6726\u80e7】\ud83c\udfee\u002b\u003e\u0026\u0026\u003c","分类url":"https://3456ys.com/vodtype/{cateId}&{area}&{class}&{year}&{catePg}/","分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
+         // {"key": "sc1080",  "name": "圣城≛影视","type": 3,"api": "./lib/sc1080_open.js"},
+      {"key":"3456","name":"34≛56","type":3,"api":"csp_XBPQ","ext":{"线路标题":"\ud83c\udfee【\u7f16\u8f91\u262a\u6708\u5149\u6726\u80e7】\ud83c\udfee\u002b\u003e\u0026\u0026\u003c","分类url":"https://3456ys.com/vodtype/{cateId}&{area}&{class}&{year}&{catePg}/","分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
        //  {
       //"key": "蝴蝶",
      // "name": "蝴蝶≛App",
